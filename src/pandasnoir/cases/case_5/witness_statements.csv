@@ -1,0 +1,101 @@
+id,crime_scene_id,witness_id,clue
+1,45,123,I was walking my dog when I saw someone suspicious climbing through the window of the research greenhouse late at night.
+2,12,45,"While working the late shift, I distinctly heard the sound of breaking glass coming from the east wing of the building."
+3,78,167,"During my evening jog, I noticed a black van parked outside with its lights off for over two hours."
+4,23,89,"I remember smelling something burning around midnight, which seemed very unusual for that time."
+5,91,145,"As I was closing up shop, I saw three people in dark clothes running from the back entrance."
+6,34,178,"From my apartment window, I watched someone tampering with the security cameras using some kind of tool."
+7,67,92,"During my security rounds, I heard loud banging noises coming from the storage area around 2 AM."
+8,89,156,I spotted a person wearing a maintenance uniform at an odd hour when no maintenance was scheduled.
+9,12,34,"While walking home, I saw someone throwing what looked like documents into a dumpster behind the building."
+10,56,198,I heard an alarm going off briefly before it was suddenly silenced in an unusual way.
+11,78,67,"From my balcony, I observed someone picking the lock on the side entrance using professional tools."
+12,34,134,"During my night shift, I noticed the security cameras were showing looped footage of empty hallways."
+13,90,92,I saw a group of people loading large crates into a white truck around midnight.
+14,23,156,"While closing up the cafe across the street, I witnessed someone disabling the exterior lights systematically."
+15,45,45,I heard what sounded like power tools being used inside the building well past closing time.
+16,67,189,"From my office window, I saw someone in a security uniform but they were wearing sneakers instead of regulation boots."
+17,89,123,I noticed the alarm system was already disabled when I arrived for my morning shift at 5 AM.
+18,12,78,"During my evening walk, I saw multiple flashlights moving around inside the closed building."
+19,34,167,I remember hearing a heated argument in a foreign language coming from the parking garage.
+20,56,34,"While delivering packages, I noticed the side door had fresh scratch marks around the lock."
+21,78,198,I saw someone repeatedly taking photos of the buildings security camera locations earlier that day.
+22,90,67,"During my shift at the coffee shop, I overheard someone discussing detailed plans of the buildings layout."
+23,23,134,I noticed a ladder propped against the back wall near the second-floor window around dusk.
+24,45,92,"From my taxi, I saw someone wearing a ski mask despite the warm weather entering the building."
+25,67,156,I heard the sound of glass breaking followed by quick footsteps around 1 AM.
+26,89,45,"While walking my dog, I noticed unfamiliar vehicles parked in the staff-only area."
+27,12,189,I saw someone copying what looked like security codes near the entrance keypad.
+28,34,123,"During my night patrol, I found fresh tire tracks leading to the normally unused loading dock."
+29,56,78,I witnessed someone in a delivery uniform but the company logo looked obviously fake.
+30,78,167,"From my window, I saw people loading artwork into an unmarked van at 3 AM."
+31,90,34,I noticed the security lights were deliberately covered with some kind of dark material.
+32,23,198,"While cleaning the windows, I saw someone testing different keys on the back entrance."
+33,45,67,I heard unusual drilling sounds coming from the vault area after hours.
+34,67,134,"During my evening run, I saw multiple people wearing identical outfits entering through different doors."
+35,89,92,I noticed someone taking detailed notes while observing the guard rotation schedule.
+36,12,156,"From my desk, I saw a person in a maintenance uniform but they seemed unfamiliar with the basic layout."
+37,34,45,I heard what sounded like radio communications in code coming from the parking structure.
+38,56,189,"While delivering mail, I noticed the security panel had been recently tampered with."
+39,78,123,I saw someone photographing the employee entrance during shift changes.
+40,90,78,"During my break, I noticed a suspicious person monitoring the security patrol patterns."
+41,23,167,I observed someone attempting to access the roof through the fire escape.
+42,45,34,"From my apartment, I saw flashlights moving through the building long after closing."
+43,67,198,I heard the sound of spray paint cans being used inside the closed gallery.
+44,89,67,"While closing up, I noticed someone had propped open several emergency exits."
+45,12,134,I saw a group of people wearing masks entering through the service entrance.
+46,34,92,"During my shift, I noticed the security cameras were being systematically redirected."
+47,56,156,I heard unusual beeping sounds coming from the alarm control panel.
+48,78,45,"From the parking lot, I saw someone copying down the security patrol schedule."
+49,90,189,I noticed fresh damage to the lock on the rear storage entrance.
+50,23,123,"While walking nearby, I saw multiple people carrying large duffel bags from the building."
+51,45,78,I observed someone using sophisticated equipment to bypass the card readers.
+52,67,167,"During my patrol, I found evidence of someone monitoring the security camera feeds."
+53,89,34,I saw unusual activity near the ventilation system access points.
+54,12,198,"From my office, I noticed someone attempting to access restricted areas repeatedly."
+55,34,67,I heard power tools being used in the artifact storage area after hours.
+56,56,134,"While cleaning, I found discarded professional lock-picking tools."
+57,78,92,I observed multiple people communicating via hand signals near the entrance.
+58,90,156,"During my shift, I noticed the emergency exits had been tampered with."
+59,23,45,I saw someone in a fake security uniform inspecting the alarm systems.
+60,45,189,"From the street, I noticed unusual activity on the normally empty top floor."
+61,67,123,I heard what sounded like heavy equipment being moved late at night.
+62,89,78,"While passing by, I saw someone disabling the external security lights."
+63,12,167,I noticed a suspicious gathering in the parking garage after hours.
+64,34,34,"During my rounds, I found evidence of someone monitoring staff movements."
+65,56,198,I observed multiple people wearing identical disguises entering separately.
+66,78,67,"From my window, I saw someone testing the response time of the security system."
+67,90,134,I noticed unusual marks around the ventilation system access panels.
+68,23,92,"While working late, I heard strange noises coming from the sealed exhibits."
+69,45,156,I saw someone attempting to access the security control room repeatedly.
+70,67,45,"During my shift, I found evidence of surveillance equipment being installed."
+71,89,189,I observed someone taking detailed photos of the security measures.
+72,12,123,"From the adjacent building, I saw unusual activity in the restricted areas."
+73,34,78,I noticed someone attempting to clone security access cards.
+74,56,167,"While on patrol, I found tools used for bypassing electronic locks."
+75,78,34,I heard coded radio communications coming from multiple directions.
+76,90,198,"During my break, I saw someone mapping out the camera blind spots."
+77,23,67,I observed multiple people coordinating through hidden earpieces.
+78,45,134,"From my post, I noticed someone timing the security patrol intervals."
+79,67,92,I saw unusual vehicle movements near the service entrance.
+80,89,156,"While closing, I found evidence of someone accessing restricted files."
+81,12,45,I heard what sounded like professional cutting tools being used.
+82,34,189,"During my shift, I noticed the surveillance system had been compromised."
+83,75,37,I overheard a booking at The Grand Regency.
+84,78,78,"From the street, I saw multiple people wearing service uniforms after hours."
+85,90,167,I noticed unusual activity around the emergency exit stairwells.
+86,23,34,"While working, I found evidence of systematic security breaches."
+87,45,198,I heard unusual mechanical sounds coming from the secured storage area.
+88,67,67,"During my rounds, I saw someone tampering with the access control system."
+89,75,42,I noticed someone at the front desk discussing Room 707 for a reservation made yesterday.
+90,12,92,"From my position, I noticed someone disabling security sensors systematically."
+91,34,156,I saw unusual patterns of movement near the restricted areas.
+92,56,45,"While patrolling, I found sophisticated hacking equipment hidden nearby."
+93,78,189,I heard what sounded like professional tools being used on the locks.
+94,90,123,"During my shift, I noticed someone monitoring the staff rotations."
+95,23,78,I observed multiple people using fake identification badges.
+96,45,167,"From the parking lot, I saw someone installing unknown devices near cameras."
+97,67,34,I noticed unusual activity in typically restricted areas of the building.
+98,89,198,"While working, I found evidence of coordinated security system tampering."
+99,12,67,I heard encrypted radio communications from multiple locations.
+100,34,134,"During my patrol, I observed someone bypassing the biometric scanners."

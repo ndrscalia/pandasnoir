@@ -1,0 +1,201 @@
+id,hotel_checkin_id,note
+1,1,Subject was observed reading a newspaper in the hotel lobby area.
+2,2,Subject ordered room service and tipped the staff generously after delivery.
+3,3,Subject spent several hours working on laptop in hotel business center.
+4,4,
+5,5,Subject went for an early morning jog around the hotel grounds.
+6,6,Subject attended the complimentary breakfast and chatted with other guests politely.
+7,7,Subject requested extra towels and toiletries from housekeeping staff member.
+8,8,Subject used the hotel gym facilities for approximately two hours.
+9,9,
+10,10,Subject asked front desk for local restaurant recommendations and directions.
+11,11,Subject received a package delivery and signed for it properly.
+12,12,Subject used the hotel pool and followed all posted safety rules.
+13,13,Subject attended a business conference in one of meeting rooms.
+14,14,
+15,15,Subject ordered a wake-up call and checked out on time.
+16,16,Subject used the concierge service to book local theater tickets.
+17,17,Subject had dinner at hotel restaurant with business associates.
+18,18,Subject requested and received directions to nearest shopping mall.
+19,19,
+20,20,Subject used hotel shuttle service to visit local tourist attractions.
+21,21,Subject participated in hotel wine tasting event with other guests.
+22,22,Subject requested room cleaning service at appropriate morning hours.
+23,23,Subject used hotel business center to print boarding passes.
+24,24,
+25,25,Subject attended hotel managers evening reception and socialized appropriately.
+26,26,Subject requested and received extra pillows from housekeeping staff.
+27,27,Subject used valet parking service and tipped staff appropriately.
+28,28,Subject ordered breakfast through room service early in morning.
+29,29,
+30,30,Subject used hotel spa services and booked follow-up appointment.
+31,31,Subject requested wake up call and received morning newspaper delivery.
+32,32,Subject attended complimentary yoga class in hotel fitness center.
+33,33,Subject used hotel dry cleaning service for business attire.
+34,34,
+35,35,Subject requested and received additional coffee supplies for room.
+36,36,Subject used hotel conference room for business meeting presentation.
+37,37,Subject participated in hotel guest satisfaction survey after checkout.
+38,38,Subject requested directions to nearest public transportation station.
+39,39,
+40,40,Subject used hotel gift shop to purchase local souvenirs.
+41,41,Subject attended hotel sponsored local wine tasting tour event.
+42,42,Subject requested and received late checkout without any issues.
+43,43,Subject used hotel computer to check in for flight.
+44,44,
+45,45,Subject participated in hotel guest appreciation cocktail hour event.
+46,46,Subject requested maintenance to fix television remote control issue.
+47,47,Subject used hotel laundry service for personal clothing items.
+48,48,Subject attended hotel sponsored local history walking tour.
+49,49,
+50,50,Subject requested and received additional hangers for hotel room closet.
+51,51,Subject used hotel concierge to arrange airport transportation service.
+52,52,Subject participated in hotel guest feedback session with management.
+53,53,Subject requested directions to nearest pharmacy from front desk.
+54,54,
+55,55,Subject used hotel business center to send important fax documents.
+56,56,Subject attended hotel sponsored local food tasting event.
+57,57,Subject requested and received room change due to AC issues.
+58,58,Subject used hotel ATM machine in lobby area.
+59,59,
+60,60,Subject participated in hotel charity fundraising event in lobby.
+61,61,Subject requested additional bathroom supplies from housekeeping staff.
+62,62,Subject used hotel shoe shine service before business meeting.
+63,63,Subject attended hotel sponsored art gallery opening event.
+64,64,
+65,65,Subject requested and received extra blankets for hotel room.
+66,66,Subject used hotel currency exchange service at front desk.
+67,67,Subject participated in hotel guest loyalty program registration.
+68,68,Subject requested directions to nearest car rental facility.
+69,69,
+70,70,Subject used hotel salon services for business meeting preparation.
+71,71,Subject attended hotel sponsored local music performance event.
+72,72,Subject requested and received room service menu for dietary restrictions.
+73,73,Subject used hotel printing services for business documents.
+74,74,
+75,75,Subject participated in hotel environmental sustainability program activities.
+76,76,Subject requested additional power adapters from front desk staff.
+77,77,Subject used hotel bicycle rental service for local sightseeing.
+78,78,Subject attended hotel sponsored cooking demonstration in restaurant.
+79,79,
+80,80,Subject requested and received extra towels for hotel pool use.
+81,81,Subject used hotel travel desk to book local tours.
+82,82,Subject participated in hotel guest satisfaction focus group.
+83,83,Subject requested directions to nearest business district area.
+84,84,
+85,85,Subject used hotel massage services after long business meeting.
+86,86,Subject attended hotel sponsored local craft beer tasting.
+87,87,Subject requested and received extra tea supplies for room.
+88,88,Subject used hotel notary services for business documents.
+89,89,
+90,90,Subject participated in hotel guest appreciation week activities.
+91,91,Subject requested additional toiletries from housekeeping department staff.
+92,92,Subject used hotel car service for business meeting transportation.
+93,93,Subject attended hotel sponsored local artist meet and greet.
+94,94,
+95,95,Subject requested and received wake up call for early flight.
+96,96,Subject used hotel gift wrapping service for purchased items.
+97,97,Subject participated in hotel customer service feedback session.
+98,98,Subject requested directions to nearest conference center location.
+99,99,
+100,100,Subject used hotel business center for video conference call.
+101,101,
+102,102,Subject requested extra pillows from housekeeping.
+103,103,Subject attended morning yoga session in hotel fitness center.
+104,104,Subject used hotel dry cleaning service.
+105,105,
+106,106,Subject requested restaurant recommendations from concierge.
+107,107,Subject participated in hotel wine tasting event.
+108,108,
+109,109,Subject used hotel shuttle service to shopping mall.
+110,110,Subject requested late checkout accommodation.
+111,111,Subject attended hotel poolside barbecue event.
+112,112,
+113,113,Subject used hotel spa facilities for manicure service.
+114,114,Subject requested room service breakfast delivery.
+115,115,
+116,116,Subject participated in hotel trivia night event.
+117,117,Subject used hotel laundry facilities.
+118,118,Subject requested airport shuttle reservation.
+119,119,"Subject was overheard yelling on a phone: ""Did you kill him?"""
+120,120,Subject attended hotel jazz night in lobby lounge.
+121,121,Subject used hotel gym facilities.
+122,122,
+123,123,Subject requested local museum information from concierge.
+124,124,Subject participated in hotel meditation workshop.
+125,125,Subject used hotel valet parking service.
+126,126,
+127,127,Subject requested room cleaning service.
+128,128,Subject attended hotel movie night by the pool.
+129,129,
+130,130,Subject used hotel computer for flight check-in.
+131,131,Subject requested ice delivery to room.
+132,132,Subject participated in hotel board game night.
+133,133,
+134,134,Subject used hotel umbrella rental service.
+135,135,Subject requested wake-up call service.
+136,136,
+137,137,Subject attended hotel karaoke night event.
+138,138,Subject used hotel safe deposit box.
+139,139,Subject requested local restaurant delivery menu.
+140,140,
+141,141,Subject participated in hotel dance class.
+142,142,Subject used hotel fax services.
+143,143,
+144,144,Subject requested extra coffee supplies for room.
+145,145,Subject attended hotel art exhibition opening.
+146,146,Subject used hotel shoe cleaning service.
+147,147,
+148,148,Subject requested local taxi service arrangement.
+149,149,Subject participated in hotel cooking class.
+150,150,
+151,151,Subject used hotel gift shop services.
+152,152,Subject requested room temperature adjustment.
+153,153,Subject attended hotel poetry reading event.
+154,154,
+155,155,Subject used hotel luggage storage service.
+156,156,Subject requested newspaper delivery to room.
+157,157,
+158,158,Subject participated in hotel chess tournament.
+159,159,Subject used hotel photocopying services.
+160,160,Subject requested dinner reservation assistance.
+161,161,
+162,162,Subject attended hotel live music performance.
+163,163,Subject used hotel postal services.
+164,164,
+165,165,Subject requested room maintenance for TV issues.
+166,166,Subject participated in hotel gardening workshop.
+167,167,Subject used hotel currency exchange service.
+168,168,
+169,169,Subject requested local area map from front desk.
+170,170,Subject attended hotel cocktail mixing class.
+171,171,
+172,172,Subject used hotel library services.
+173,173,Subject requested extra bathroom amenities.
+174,174,Subject participated in hotel yoga meditation.
+175,175,
+176,176,Subject used hotel express check-out service.
+177,177,Subject requested room service dinner delivery.
+178,178,
+179,179,Subject attended hotel painting workshop.
+180,180,Subject used hotel internet cafe services.
+181,181,Subject requested local theater tickets through concierge.
+182,182,
+183,183,Subject participated in hotel guest mixer event.
+184,184,Subject used hotel wake-up call service.
+185,185,
+186,186,Subject requested extra hangers for closet.
+187,187,Subject attended hotel wine and cheese pairing.
+188,188,Subject used hotel business center printer.
+189,189,
+190,190,Subject requested local weather forecast information.
+191,191,Subject participated in hotel book club meeting.
+192,192,
+193,193,Subject used hotel shoe shine service.
+194,194,Subject requested room service breakfast menu.
+195,195,Subject attended hotel sunset yoga session.
+196,196,
+197,197,Subject used hotel magazine lending service.
+198,198,Subject requested extra soap and shampoo.
+199,199,
+200,200,Subject participated in hotel morning meditation.

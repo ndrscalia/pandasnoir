@@ -1,0 +1,101 @@
+id,person_id,order_date,item,amount
+1,23,19871030,Dragons Breath cocktail,1
+2,45,19871030,Martini,2
+3,17,19871030,Old Fashioned,1
+4,82,19871030,Mojito,2
+5,34,19871030,Manhattan,1
+6,91,19871030,Cosmopolitan,3
+7,15,19871030,Margarita,2
+8,67,19871030,Daiquiri,1
+9,28,19871030,Negroni,2
+10,53,19871030,Whiskey Sour,1
+11,76,19871030,Moscow Mule,2
+12,39,19871030,Gin and Tonic,1
+13,84,19871030,Pina Colada,3
+14,12,19871030,Mai Tai,1
+15,95,19871030,Bloody Mary,2
+16,43,19871030,Aperol Spritz,1
+17,68,19871030,Dark n Stormy,2
+18,31,19871030,Sidecar,1
+19,87,19871030,French 75,2
+20,24,19871030,Espresso Martini,1
+21,59,19871030,Tom Collins,2
+22,73,19871030,White Russian,1
+23,16,19871030,Mint Julep,3
+24,92,19871030,Aviation,1
+25,35,19871030,Boulevardier,2
+26,64,19871030,Sazerac,1
+27,27,19871030,Irish Coffee,2
+28,83,19871030,Paloma,1
+29,48,19871030,Long Island Iced Tea,2
+30,71,19871030,Singapore Sling,1
+31,19,19871030,Caipirinha,3
+32,56,19871030,Gimlet,1
+33,88,19871030,Rob Roy,2
+34,32,19871030,Vesper,1
+35,75,19871030,Pisco Sour,2
+36,44,19871030,Cuba Libre,1
+37,93,19871030,Rusty Nail,2
+38,26,19871030,Harvey Wallbanger,1
+39,61,19871030,Grasshopper,3
+40,85,19871030,Brandy Alexander,1
+41,38,19871030,Last Word,2
+42,79,19871030,Champagne Cocktail,1
+43,14,19871030,Amaretto Sour,2
+44,57,19871030,B&B,1
+45,96,19871030,Bellini,2
+46,33,19871030,Black Russian,1
+47,72,19871030,Bronx,3
+48,25,19871030,Gibson,1
+49,89,19871030,Golden Dream,2
+50,41,19871030,Godfather,1
+51,66,19871030,Hemingway Daiquiri,2
+52,18,19871030,Horses Neck,1
+53,94,19871030,Jack Rose,2
+54,37,19871030,Kir Royale,1
+55,81,19871030,Lemon Drop,3
+56,29,19871030,Mary Pickford,1
+57,63,19871030,Monkey Gland,2
+58,86,19871030,Pink Lady,1
+59,42,19871030,Porto Flip,2
+60,77,19871030,Ramos Gin Fizz,1
+61,21,19871030,Rusty Nail,2
+62,58,19871030,Screwdriver,1
+63,97,19871030,Sex on the Beach,3
+64,36,19871030,Sidecar,1
+65,69,19871030,Stinger,2
+66,13,19871030,Tequila Sunrise,1
+67,91,19871030,Ward 8,2
+68,47,19871030,White Lady,1
+69,74,19871030,Yellow Bird,2
+70,22,19871030,Zombie,1
+71,55,19871030,Americano,3
+72,88,19871030,Between the Sheets,1
+73,31,19871030,Blue Hawaii,2
+74,65,19871030,Bramble,1
+75,98,19871030,Clover Club,2
+76,43,19871030,Corpse Reviver,1
+77,78,19871030,El Diablo,2
+78,15,19871030,French Connection,1
+79,92,19871030,Golden Cadillac,3
+80,35,19871030,Hanky Panky,1
+81,61,19871030,Irish Rose,2
+82,84,19871030,Japanese Slipper,1
+83,27,19871030,Kamikaze,2
+84,73,19871030,London Calling,1
+85,16,19871030,Mai Tai,2
+86,95,19871030,Navy Grog,1
+87,38,19871030,Orange Blossom,3
+88,82,19871030,Paradise,1
+89,25,19871030,Queen Elizabeth,2
+90,67,19871030,Red Lion,1
+91,93,19871030,Southside,2
+92,41,19871030,Ti Punch,1
+93,76,19871030,Vampiro,2
+94,19,19871030,Whiskey Mac,1
+95,54,19871030,XYZ,3
+96,87,19871030,Yellow Parrot,1
+97,32,19871030,Zaza,2
+98,71,19871030,Adonis,1
+99,45,19871030,Bamboo,2
+100,89,19871030,Casino,1

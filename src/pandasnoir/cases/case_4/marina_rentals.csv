@@ -1,0 +1,101 @@
+id,dock_number,renter_guest_id,rental_date,boat_name
+1,4,156,19871025,Sea Whisper
+2,2,89,19871027,Ocean Breeze
+3,1,134,19871028,Wave Dancer
+4,3,45,19870520,Coastal Dream
+5,5,178,19871026,Marina Belle
+6,2,23,19871029,Blue Horizon
+7,4,167,19871025,Sunset Chaser
+8,1,91,19871027,Wind Spirit
+9,3,112,19870520,Sea Serenade
+10,5,145,19871026,Ocean Mist
+11,2,89,19871029,Wave Runner
+12,4,34,19871025,Coastal Jewel
+13,1,167,19871027,Marina Star
+14,3,78,19870520,Blue Pearl
+15,5,123,19871026,Sunset Dream
+16,2,45,19871029,Wind Dancer
+17,4,190,19871025,Sea Princess
+18,1,56,19871027,Ocean Spray
+19,3,145,19870520,Wave Seeker
+20,5,89,19871026,Coastal Beauty
+21,2,112,19871029,Marina Mist
+22,4,78,19871025,Blue Wave
+23,1,23,19871027,Sunset Lady
+24,3,167,19870520,Wind Song
+25,5,34,19871026,Sea Breeze
+26,2,156,19871029,Ocean Dream
+27,4,91,19871025,Wave Spirit
+28,1,145,19871027,Coastal Star
+29,3,78,19870520,Marina Belle II
+30,5,112,19871026,Blue Moon
+31,2,34,19871029,Sunset Wave
+32,4,167,19871025,Wind Seeker
+33,1,23,19871027,Sea Pearl
+34,3,190,19870520,Ocean Spirit
+35,5,56,19871026,Wave Princess
+36,2,145,19871029,Coastal Spray
+37,4,89,19871025,Marina Dream
+38,1,112,19871027,Blue Lady
+39,3,78,19870520,Sunset Mist
+40,5,167,19871026,Wind Star
+41,2,34,19871029,Sea Song
+42,4,156,19871025,Ocean Beauty
+43,1,91,19871027,Wave Moon
+44,3,105,19870520,Coastal Spirit
+45,5,23,19871026,Marina Wave
+46,2,78,19871029,Blue Seeker
+47,4,112,19871025,Sunset Pearl
+48,1,167,19871027,Wind Princess
+49,3,34,19870520,Sea Spray
+50,5,190,19871026,Ocean Lady
+51,2,56,19871029,Wave Star
+52,4,145,19871025,Coastal Mist
+53,1,89,19871027,Marina Moon
+54,3,112,19871028,Blue Spirit
+55,5,78,19871026,Sunset Beauty
+56,2,167,19871029,Wind Wave
+57,4,34,19871025,Sea Seeker
+58,1,156,19871027,Ocean Pearl
+59,3,91,19871028,Wave Lady
+60,5,145,19871026,Coastal Star II
+61,2,23,19871029,Marina Spirit
+62,4,78,19871025,Blue Princess
+63,1,112,19871027,Sunset Spray
+64,3,167,19871028,Wind Moon
+65,5,34,19871026,Sea Star
+66,2,190,19871029,Ocean Mist II
+67,4,56,19871025,Wave Beauty
+68,1,145,19871027,Coastal Wave
+69,3,89,19871028,Marina Seeker
+70,5,112,19871026,Blue Pearl II
+71,2,78,19871029,Sunset Spirit
+72,4,167,19871025,Wind Lady
+73,1,34,19871027,Sea Moon
+74,3,156,19871028,Ocean Star II
+75,5,91,19871026,Wave Spirit II
+76,2,145,19871029,Coastal Princess
+77,4,23,19871025,Marina Spray
+78,1,78,19871027,Blue Mist
+79,3,112,19871028,Sunset Wave II
+80,5,167,19871026,Wind Beauty
+81,2,34,19871029,Sea Princess II
+82,4,190,19871025,Ocean Spirit II
+83,1,56,19871027,Wave Seeker II
+84,3,145,19871028,Coastal Lady
+85,5,89,19871026,Marina Pearl
+86,2,112,19871029,Blue Star
+87,4,78,19871025,Sunset Moon
+88,1,167,19871027,Wind Spirit II
+89,3,34,19871028,Sea Beauty
+90,5,156,19871026,Ocean Wave
+91,2,91,19871029,Wave Pearl
+92,4,145,19871025,Coastal Spirit II
+93,1,23,19871027,Marina Star II
+94,3,78,19871028,Blue Moon II
+95,5,112,19871026,Sunset Seeker
+96,2,167,19871029,Wind Wave II
+97,4,34,19871025,Sea Spirit II
+98,1,190,19871027,Ocean Beauty II
+99,3,56,19871028,Wave Star II
+100,5,145,19871026,Coastal Dream II

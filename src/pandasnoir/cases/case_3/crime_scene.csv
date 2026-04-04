@@ -1,0 +1,101 @@
+id,date,location,description
+1,19860814,Lincoln Road Mall,"Famous street art mural worth $200,000 deliberately destroyed. Surveillance footage shows organized vandalism."
+2,19860814,South Beach Club,"A violent fight broke out between multiple patrons, resulting in severe injuries and extensive property damage. Security footage shows the incident started at the bar area."
+3,19860813,Downtown Alley,"Armed robbery occurred with three masked perpetrators. Victims reported the suspects were carrying handguns and escaped with over $5,000 in cash and valuables."
+4,19860815,Palm Beach Resort,"Guest reported missing jewelry worth $25,000 from their room safe. No signs of forced entry were found, suggesting possible inside job."
+5,19860816,Miami Convention Center,Corporate espionage case involving stolen classified documents from major tech company. Security cameras were disabled during the theft.
+6,19860817,Little Havana Restaurant,Sophisticated money laundering operation discovered after months of investigation. Multiple high-profile suspects identified and large sums of cash seized.
+7,19860818,Coconut Grove Park,"Drug deal interrupted by rival gang, resulting in violent confrontation. Multiple shell casings found at scene but no casualties reported."
+8,19860819,Brickell Financial District,"Elaborate bank robbery attempt involving tunnel system. Police responded before vault was breached, suspects fled leaving equipment behind."
+9,19860820,Art Deco Hotel,Priceless Picasso painting stolen from lobby during busy check-in time. Security footage shows professional thieves using sophisticated methods.
+10,19860821,Fisher Island Club,"Prominent member reported systematic blackmail attempt involving compromising photos. Ransom demands exceed $100,000."
+11,19860822,Vizcaya Museum,"Rare 15th century artifact disappeared during special exhibition. Alarm systems were professionally bypassed, suggesting inside knowledge."
+12,19860823,Bayside Marketplace,Large-scale counterfeit operation discovered producing fake designer goods. Multiple arrests made and equipment seized.
+13,19860824,Miami Beach Marina,International smuggling operation intercepted with contraband worth millions. Multiple boats and suspects detained.
+14,19860825,Coral Gables Theater,Detailed bomb threat caused evacuation of 500 people. Extensive search revealed elaborate hoax device.
+15,19860826,Venetian Pool,"Significant vandalism reported with damages exceeding $50,000. Historic structures defaced and equipment destroyed."
+16,19860827,Miracle Mile,"Coordinated series of high-end store break-ins resulted in over $200,000 in stolen merchandise. Professional crew suspected."
+17,19860828,Calle Ocho,Major street fight involving rival gangs resulted in multiple serious injuries and one critical condition. Numerous weapons recovered.
+18,19860829,Port of Miami,Sophisticated cargo container theft involving forged documents and insider assistance. High-value electronics stolen.
+19,19860830,Miami River,Decomposed body discovered in abandoned luxury yacht. Evidence suggests victim was tortured before death.
+20,19860831,South Pointe Park,Major drug bust operation resulted in seizure of cocaine worth $2 million and multiple high-level arrests.
+21,19860901,Ocean Drive Hotel,"Celebrity jewels worth $500,000 stolen from supposedly secure safe. Professional thieves bypassed advanced security system."
+22,19860902,Lincoln Road Mall,Armed robbery at high-end jewelry store resulted in $1 million loss. Three armed suspects overwhelmed security.
+23,19860903,Española Way,Suspicious restaurant fire investigated as arson. Evidence of accelerants found and previous threats reported.
+24,19860904,Wynwood Arts District,"Famous street art mural worth $200,000 deliberately destroyed. Surveillance footage shows organized vandalism."
+25,19860905,Design District,Coordinated robbery of luxury fashion store during delivery. Armed suspects stole entire shipment of designer goods.
+26,19860906,Miami International Airport,Complex drug smuggling ring uncovered involving multiple airline employees and sophisticated concealment methods.
+27,19860907,Marlins Stadium,Large-scale ticket fraud scheme exposed involving counterfeit tickets and corrupt employees.
+28,19860908,Overtown,Gang-related shooting resulted in multiple injuries and extensive property damage. Multiple weapons recovered.
+29,19860909,Miami Gardens,Violent home invasion targeting elderly couple. Suspects tortured victims before stealing valuables.
+30,19860910,Coral Way,Professional car theft ring dismantled after months of surveillance. Multiple luxury vehicles recovered.
+31,19860911,Key Biscayne Beach,Major environmental crime discovered involving illegal toxic waste dumping. Extensive damage to marine life reported.
+32,19860912,Flagler Street,Armed bank robbery in progress with hostage situation. Multiple suspects cornered inside building.
+33,19860913,Government Center,Complex corruption case involving multiple city officials and construction contracts worth millions.
+34,19860914,Miami Seaquarium,Sophisticated attempt to steal rare marine specimens thwarted. International trafficking ring suspected.
+35,19860915,Jungle Island,"Theft of endangered species worth $100,000 reported. Professional animal traffickers suspected."
+36,19860916,Fairchild Gardens,"Rare orchid specimens worth $75,000 stolen during night. Security systems professionally disabled."
+37,19860917,Matheson Hammock Park,Badly decomposed body discovered in mangroves showing signs of execution-style murder.
+38,19860918,Crandon Park,Systematic environmental vandalism causing extensive damage to protected habitat. Multiple sites targeted.
+39,19860919,Virginia Key,Major illegal dumping operation discovered with toxic waste threatening water supply.
+40,19860920,Rickenbacker Causeway,High-speed chase ended in multiple vehicle collision and arrest of drug trafficking suspects.
+41,19860921,Venetian Islands,Sophisticated home burglary targeting art collection worth millions. Security systems bypassed.
+42,19860922,Star Island,Celebrity stalking case involving death threats and attempted break-in at mansion.
+43,19860814,Coral Bay Marina,"The body of an unidentified man was found near the docks. Two people were seen nearby: one who lives on 300ish ""Ocean Drive"" and another whose first name ends with ""ul"" and his last name ends with ""ez""."
+44,19860924,Hibiscus Island,Major art forgery ring discovered producing fake masterpieces worth millions.
+45,19860925,Miami Shores,Notorious serial burglar caught after year-long investigation. Multiple stolen items recovered.
+46,19860926,North Bay Village,Complex insurance fraud case involving staged accidents and corrupt medical professionals.
+47,19860927,Surfside,Violent beach assault involving multiple attackers. Victim in critical condition.
+48,19860928,Bal Harbour,Organized retail theft ring targeting luxury stores. Professional shoplifting crew identified.
+49,19860929,Sunny Isles Beach,Multi-million dollar real estate fraud scheme exposed involving fake property sales.
+50,19860930,Golden Beach,Armed home invasion at celebrity residence. Extensive property damage and theft reported.
+51,19861001,North Miami Beach,Dangerous car chase ended with multiple injuries and significant property damage.
+52,19861002,Aventura,Shopping mall shooting incident resulted in multiple injuries and mass panic.
+53,19861003,Oleta River Park,Major environmental crime involving illegal chemical dumping into protected waterway.
+54,19861004,Haulover Beach,Large-scale drug smuggling operation intercepted. Multiple boats and suspects detained.
+55,19861005,Collins Avenue,Brutal hotel room murder with signs of torture. Room completely ransacked.
+56,19861006,Washington Avenue,Nightclub shooting resulted in multiple casualties and extensive property damage.
+57,19861007,Alton Road,Armed robbery at convenience store with shots fired. One employee critically injured.
+58,19861008,West Avenue,Violent apartment break-in with elderly resident assaulted. Valuable antiques stolen.
+59,19861009,Belle Isle,Domestic disturbance escalated to hostage situation. SWAT team deployed.
+60,19861010,Sunset Harbour,Luxury boat theft involving professional criminals. Multiple vessels targeted.
+61,19861011,North Beach,Series of violent tourist muggings reported. Multiple victims hospitalized.
+62,19861012,Mid Beach,Professional hotel safe robbery involving sophisticated tools and insider information.
+63,19861013,South Beach,Restaurant shooting during busy dinner service. Multiple witnesses interviewed.
+64,19861014,Lummus Park,Major drug deal interrupted by rival gang. Multiple weapons recovered.
+65,19861015,Flamingo Park,Large-scale theft of expensive athletic equipment from sports facility.
+66,19861016,South Pointe,Violent assault on pier resulting in victim being thrown into ocean.
+67,19861017,Government Cut,Major smuggling operation busted with contraband worth millions seized.
+68,19861018,Fisher Island,Professional jewelry heist targeting multiple high-end residences.
+69,19861019,Dodge Island,Complex cargo theft investigation involving corrupt port employees.
+70,19861020,Watson Island,Attempted theft of private aircraft thwarted by security personnel.
+71,19861021,MacArthur Causeway,High-speed pursuit resulted in multiple vehicle accidents and injuries.
+72,19861022,Venetian Causeway,Fatal hit and run incident involving luxury vehicle. Driver fled scene.
+73,19861023,Julia Tuttle Causeway,Body discovered with multiple gunshot wounds. Gang-related suspected.
+74,19861024,Downtown Miami,Sophisticated office building break-in targeting corporate secrets.
+75,19861025,Media and Entertainment District,Major vandalism at television studio causing broadcast interruption.
+76,19861026,Edgewater,Waterfront assault case involving multiple attackers and stolen boat.
+77,19861027,Midtown,Professional art gallery theft targeting specific high-value pieces.
+78,19861028,Design District,Armed robbery at fashion warehouse during inventory delivery.
+79,19861029,Little Haiti,Violent corner store robbery resulting in owner hospitalization.
+80,19861030,Upper Eastside,Home invasion case involving torture and significant property theft.
+81,19861031,Little River,Major industrial theft of expensive manufacturing equipment reported.
+82,19861101,West Little River,Violent gang activity resulting in multiple injuries and property damage.
+83,19861102,Liberty City,Armed robbery at convenience store with multiple shots fired.
+84,19861103,Model City,Professional car theft ring discovered operating sophisticated chop shop.
+85,19861104,Brownsville,Major drug house raid resulted in multiple arrests and evidence seizure.
+86,19861105,Allapattah,Professional warehouse break-in targeting high-value electronics.
+87,19861106,Grapeland Heights,Extensive park vandalism causing significant damage to facilities.
+88,19861107,Civic Center,Complex political corruption case involving bribes and kickbacks.
+89,19861108,Spring Garden,Historic home burglary targeting valuable antique collection.
+90,19861109,Riverside,Major river pollution incident causing extensive environmental damage.
+91,19861110,Little Havana,Suspicious restaurant fire investigated as insurance fraud scheme.
+92,19861111,The Roads,Illegal street racing incident resulted in multiple vehicle accidents.
+93,19861112,Shenandoah,Series of coordinated home burglaries targeting elderly residents.
+94,19861113,Silver Bluff,Armed jewelry store robbery with multiple suspects and hostages.
+95,19861114,Coral Way,Sophisticated bank robbery attempt involving tunnel system.
+96,19861115,Brickell,Major corporate espionage case involving stolen trade secrets.
+97,19861116,Coconut Grove,Large-scale marina theft targeting expensive boat equipment.
+98,19861117,Coral Gables,Professional art museum heist involving multiple valuable pieces.
+99,19861118,South Miami,Shopping mall shooting incident with multiple casualties reported.
+100,19861119,Kendall,Extensive suburban break-in spree targeting multiple residences.

@@ -1,0 +1,201 @@
+id,caller_id,recipient_id,call_date,call_time,note
+1,3,1,19871028,09:15,"Hey, can you help me move this weekend?"
+2,7,1,19871029,10:30,Just wanted to confirm our lunch meeting tomorrow.
+3,2,3,19871030,11:45,The project deadline needs to be extended immediately.
+4,5,8,19871028,12:20,Please send me those financial reports right away.
+5,9,4,19871029,13:35,Did you remember to feed my cat today?
+6,1,6,19871030,14:50,Let me know when you arrive at home.
+7,8,2,19871028,15:15,We should reschedule our tennis game this week.
+8,4,7,19871029,16:30,The meeting room is booked for three pm.
+9,6,5,19871030,17:45,Could you pick up some groceries after work?
+10,2,9,19871028,18:20,I need those contract papers signed by tomorrow.
+11,7,3,19871029,19:35,My car broke down on the highway again.
+12,3,8,19871030,20:50,Should we order pizza for dinner tonight instead?
+13,5,1,19871028,21:15,The internet is not working at my place.
+14,9,6,19871029,22:30,Remember to bring your laptop to the conference.
+15,1,4,19871030,23:45,Going to be late for our morning meeting.
+16,8,7,19871028,08:20,Have you seen the new movie last night?
+17,4,2,19871029,09:35,The printer in the office is broken again.
+18,6,9,19871030,10:50,We need to discuss the budget next week.
+19,2,5,19871028,11:15,Can you send me directions to your house?
+20,7,8,19871029,12:30,The client wants to meet on Thursday instead.
+21,3,4,19871030,13:45,I forgot my keys at your place today.
+22,5,6,19871028,14:20,The weather is perfect for a beach trip.
+23,9,2,19871029,15:35,Do you have time for coffee this afternoon?
+24,1,7,19871030,16:50,My presentation went really well this morning.
+25,8,3,19871028,17:15,The dog needs to go to the vet.
+26,4,5,19871029,18:30,Could you water my plants this weekend please?
+27,6,1,19871030,19:45,The restaurant reservation is confirmed for eight.
+28,2,8,19871028,20:20,We should plan our vacation next month soon.
+29,7,4,19871029,21:35,Just finished reading that book you recommended.
+30,3,6,19871030,22:50,The traffic is terrible on the highway today.
+31,5,2,19871028,23:15,Remember to bring your umbrella tomorrow morning.
+32,9,7,19871029,08:30,Can you help me fix my computer?
+33,1,3,19871030,09:45,The package should arrive by noon today.
+34,8,5,19871028,10:20,Did you see the email I sent yesterday?
+35,4,9,19871029,11:35,The gym membership needs to be renewed soon.
+36,6,8,19871030,12:50,My phone battery is about to die now.
+37,2,4,19871028,13:15,The new restaurant downtown is really good.
+38,7,6,19871029,14:30,Should we reschedule the team meeting today?
+39,3,2,19871030,15:45,I need help moving my furniture tomorrow.
+40,5,7,19871028,16:20,The concert tickets are sold out already.
+41,9,3,19871029,17:35,Can you recommend a good dentist nearby?
+42,1,5,19871030,18:50,The car needs to be serviced soon.
+43,8,9,19871028,19:15,Did you finish the report for tomorrow?
+44,4,1,19871029,20:30,The air conditioning is not working properly.
+45,6,3,19871030,21:45,We should plan something for the weekend.
+46,2,7,19871028,22:20,The new coffee machine is amazing here.
+47,7,5,19871029,23:35,Just wanted to check how you are doing.
+48,3,9,19871030,08:50,The meeting room needs to be booked again.
+49,5,4,19871028,09:15,Remember to bring the documents for signing.
+50,9,8,19871029,10:30,The printer needs new ink cartridges soon.
+51,1,2,19871030,11:45,Can you help me with this math problem?
+52,8,6,19871028,12:20,The internet connection is very slow today.
+53,4,3,19871029,13:35,We need to discuss the project timeline.
+54,6,7,19871030,14:50,The parking lot is full this morning.
+55,2,1,19871028,15:15,Just finished watching that new TV show.
+56,7,9,19871029,16:30,The deadline has been extended until Friday.
+57,3,5,19871030,17:45,Could you send me the meeting minutes?
+58,5,8,19871028,18:20,The new software update is available now.
+59,9,4,19871029,19:35,Remember to bring your passport next time.
+60,1,6,19871030,20:50,The elevator is out of order today.
+61,8,2,19871028,21:15,Just wanted to confirm our appointment tomorrow.
+62,4,7,19871029,22:30,The presentation slides need some changes still.
+63,6,3,19871030,23:45,Can you recommend a good movie tonight?
+64,2,5,19871028,08:20,The new office layout looks really nice.
+65,7,1,19871029,09:35,Did you receive my email from yesterday?
+66,3,8,19871030,10:50,The conference room is too cold today.
+67,5,4,19871028,11:15,We should plan the team building event.
+68,9,6,19871029,12:30,The copy machine is not working again.
+69,1,2,19871030,13:45,Remember to bring your gym clothes tomorrow.
+70,8,7,19871028,14:20,The new restaurant menu looks really good.
+71,4,3,19871029,15:35,Can you help me with this presentation?
+72,6,5,19871030,16:50,The traffic lights are not working today.
+73,2,9,19871028,17:15,Just finished reading the project proposal now.
+74,7,8,19871029,18:30,The meeting room needs better lighting installed.
+75,3,4,19871030,19:45,Could you send me the contract details?
+76,5,6,19871028,20:20,The new security system works really well.
+77,9,2,19871029,21:35,Remember to bring your presentation materials tomorrow.
+78,1,7,19871030,22:50,The printer needs paper in tray two.
+79,8,3,19871028,23:15,Just wanted to discuss the budget plan.
+80,4,5,19871029,08:30,The coffee machine needs to be cleaned.
+81,6,1,19871030,09:45,Can you help me move these boxes?
+82,2,8,19871028,10:20,The new project timeline looks very tight.
+83,7,4,19871029,11:35,Did you see the new office design?
+84,3,6,19871030,12:50,The meeting notes need to be reviewed.
+85,5,2,19871028,13:15,We should discuss the marketing strategy soon.
+86,9,7,19871029,14:30,The air conditioning needs to be fixed.
+87,1,3,19871030,15:45,Remember to sign the attendance sheet today.
+88,8,5,19871028,16:20,The new software is very user friendly.
+89,4,9,19871029,17:35,Can you send me the meeting schedule?
+90,6,8,19871030,18:50,The parking validation machine is broken again.
+91,2,4,19871028,19:15,Just finished the quarterly report draft today.
+92,7,6,19871029,20:30,The new office chairs are very comfortable.
+93,3,2,19871030,21:45,Could you review this document for me?
+94,5,7,19871028,22:20,The team meeting went really well today.
+95,9,3,19871029,23:35,Remember to update your computer software soon.
+96,1,5,19871030,08:50,The new project looks very promising now.
+97,8,9,19871028,09:15,Did you receive the package I sent?
+98,4,1,19871029,10:30,The conference call needs to be rescheduled.
+99,6,3,19871030,11:45,We should plan the holiday party soon.
+100,2,7,19871028,12:20,The new database system is working perfectly.
+101,5,8,19871029,13:35,My cat knocked over the plant this morning.
+102,7,4,19871030,14:50,The subway was delayed by 20 minutes today.
+103,3,9,19871028,15:15,I found a great new coffee shop downtown.
+104,8,2,19871029,16:30,The weather forecast predicts rain tomorrow.
+105,1,6,19871030,17:45,My neighbor got a new puppy yesterday.
+106,4,3,19871028,18:20,The library books are due next week.
+107,9,7,19871029,19:35,I need to buy new running shoes soon.
+108,2,5,19871030,20:50,The movie theater is showing classic films.
+109,6,8,19871028,21:15,My phone battery dies too quickly now.
+110,3,1,19871029,22:30,The grocery store was out of milk.
+111,7,4,19871030,23:45,I forgot my umbrella at the restaurant.
+112,5,9,19871028,08:20,The bus schedule changed this week.
+113,8,2,19871029,09:35,My favorite show got cancelled.
+114,1,6,19871030,10:50,The gym is crowded after work hours.
+115,4,3,19871028,11:15,I need to schedule a dentist appointment.
+116,9,7,19871029,12:30,The washing machine is making strange noises.
+117,11,58,19871030,23:30,"Why did you kill him, bro? You should have left the carpenter do it himself!"
+118,6,8,19871028,14:20,The car needs an oil change soon.
+119,3,1,19871029,15:35,I lost my house keys yesterday.
+120,7,4,19871030,16:50,The pizza delivery was late again.
+121,5,9,19871028,17:15,My computer needs a software update.
+122,8,2,19871029,18:30,The garden needs watering tomorrow.
+123,1,6,19871030,19:45,I found a great deal on plane tickets.
+124,4,3,19871028,20:20,The refrigerator light stopped working.
+125,9,7,19871029,21:35,My bike tire has a flat.
+126,2,5,19871030,22:50,The concert tickets sold out quickly.
+127,6,8,19871028,23:15,I need to buy birthday presents.
+128,3,1,19871029,08:30,The paint is peeling in the bathroom.
+129,7,4,19871030,09:45,My watch battery died this morning.
+130,5,9,19871028,10:20,The internet connection is unstable.
+131,8,2,19871029,11:35,I forgot to mail the letters.
+132,1,6,19871030,12:50,The microwave stopped heating properly.
+133,4,3,19871028,13:15,My plants need repotting soon.
+134,9,7,19871029,14:30,The ceiling fan makes clicking sounds.
+135,2,5,19871030,15:45,I need new winter boots this year.
+136,6,8,19871028,16:20,The printer is low on paper.
+137,3,1,19871029,17:35,My allergies are acting up today.
+138,7,4,19871030,18:50,The remote control needs new batteries.
+139,5,9,19871028,19:15,I should clean the windows tomorrow.
+140,8,2,19871029,20:30,The doorbell stopped working.
+141,1,6,19871030,21:45,My favorite restaurant closed down.
+142,4,3,19871028,22:20,The shower head needs replacing.
+143,9,7,19871029,23:35,I need to renew my passport soon.
+144,2,5,19871030,08:50,The lawn needs mowing this weekend.
+145,6,8,19871028,09:15,My headphones stopped working.
+146,3,1,19871029,10:30,The traffic was terrible this morning.
+147,7,4,19871030,11:45,I should call my grandmother today.
+148,5,9,19871028,12:20,The toaster burns everything now.
+149,8,2,19871029,13:35,My desk chair needs fixing.
+150,1,6,19871030,14:50,The air conditioner is too loud.
+151,4,3,19871028,15:15,I need to buy more coffee filters.
+152,9,7,19871029,16:30,The vacuum cleaner bag is full.
+153,2,5,19871030,17:45,My neighbors dog barks all night.
+154,6,8,19871028,18:20,The kitchen sink is dripping.
+155,3,1,19871029,19:35,I should start exercising more.
+156,7,4,19871030,20:50,The TV remote is missing again.
+157,5,9,19871028,21:15,My glasses need cleaning badly.
+158,8,2,19871029,22:30,The front door squeaks loudly.
+159,1,6,19871030,23:45,I need to buy more hangers.
+160,4,3,19871028,08:20,The bathroom mirror is foggy.
+161,9,7,19871029,09:35,My phone screen is cracked.
+162,2,5,19871030,10:50,The garage door opener broke.
+163,133,58,19871030,22:15,I will do it. Only if you give me that nice Lambo of yours.
+164,3,1,19871029,12:30,The smoke detector needs testing.
+165,7,4,19871030,13:45,My calendar needs updating.
+166,5,9,19871028,14:20,The blinds wont close properly.
+167,8,2,19871029,15:35,I need to buy more stamps.
+168,1,6,19871030,16:50,The clock runs five minutes fast.
+169,4,3,19871028,17:15,My shoes need polishing.
+170,9,7,19871029,18:30,The dishwasher cycle is too long.
+171,2,5,19871030,19:45,I should water the plants today.
+172,6,8,19871028,20:20,The bedroom light flickers sometimes.
+173,3,1,19871029,21:35,My laptop runs too slowly now.
+174,7,4,19871030,22:50,The fence needs painting soon.
+175,5,9,19871028,23:15,I need to buy more soap.
+176,8,2,19871029,08:30,The curtains need washing.
+177,1,6,19871030,09:45,My watch runs two minutes slow.
+178,4,3,19871028,10:20,The carpet needs vacuuming.
+179,9,7,19871029,11:35,I should clean the oven today.
+180,2,5,19871030,12:50,The mailbox is falling apart.
+181,6,8,19871028,13:15,My keys are getting rusty.
+182,3,1,19871029,14:30,The window screen has a hole.
+183,7,4,19871030,15:45,I need new bed sheets soon.
+184,5,9,19871028,16:20,The doormat is wearing out.
+185,8,2,19871029,17:35,My pen ran out of ink.
+186,1,6,19871030,18:50,The stairs creak at night.
+187,4,3,19871028,19:15,I should buy more hangers.
+188,9,7,19871029,20:30,The faucet drips constantly.
+189,2,5,19871030,21:45,My phone needs charging.
+190,6,8,19871028,22:20,The wall clock stopped working.
+191,3,1,19871029,23:35,I need to buy groceries soon.
+192,7,4,19871030,08:50,The mirror needs cleaning.
+193,5,9,19871028,09:15,My calendar is outdated.
+194,8,2,19871029,10:30,The chair makes squeaking noises.
+195,1,6,19871030,11:45,I should replace the lightbulbs.
+196,4,3,19871028,12:20,The shelf is slightly crooked.
+197,9,7,19871029,13:35,My pencil needs sharpening.
+198,2,5,19871030,14:50,The door handle is loose.
+199,6,8,19871028,15:15,I need to buy more paper.
+200,3,1,19871029,16:30,The ceiling needs painting.

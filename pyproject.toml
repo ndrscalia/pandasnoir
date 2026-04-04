@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=70", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pandasnoir"
+version = "0.1.0"
+description = "A noir detective mystery game for learning pandas"
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
+dependencies = [
+  "ipython>=9.0",
+  "numpy>=2.0",
+  "pandas>=3.0",
+  "rich>=14.0",
+  "rich-pixels>=3.0",
+  "textual>=8.0",
+  "tree-sitter>=0.25",
+  "tree-sitter-python>=0.25",
+]
+
+[project.optional-dependencies]
+test = [
+  "pytest>=8.0",
+  "pytest-asyncio>=0.25",
+]
+dev = [
+  "pandasnoir[test]",
+  "ruff>=0.11",
+]
+
+[project.scripts]
+pandasnoir = "pandasnoir.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["pandasnoir*"]
+
+[tool.setuptools.package-data]
+pandasnoir = [
+  "cases/**/*.csv",
+  "cases_docs/*.md",
+  "assets/*",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

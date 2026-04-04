@@ -1,0 +1,206 @@
+id,person_id,plate_number,car_make,car_model
+1,156,ABVX7CD,Chevrolet,Impala
+2,43,XYZ1234,Ford,Mustang
+3,189,HN-CIV123,Honda,Civic
+4,77,LMNOPQ,Toyota,Corolla
+5,12,ABC123,Audi,200
+6,167,DEF456,Chevrolet,Camaro
+7,34,GHI789,Pontiac,Firebird
+8,198,JKL012,Toyota,Celica
+9,89,MNO345,Porsche,911
+10,145,PQR678,Ferrari,308 GTB
+11,23,STU901,Lamborghini,Countach
+12,178,VWX234,BMW,635CSi
+13,67,YZA567,Mercedes,380SL
+14,134,BCD890,Volkswagen,Golf GTI
+15,92,EFG123,Audi,Quattro
+16,156,HIJ456,Lamborghini,Countach
+17,45,KLM789,DeLorean,DMC-12
+18,189,NOP012,Datsun,280ZX
+19,123,QRS345,Chevrolet,Corvette
+20,78,TUV678,Lamborghini,Countach
+21,167,WXY901,Ford,Thunderbird
+22,34,ZAB234,Mazda,RX-7
+23,198,CDE567,Porsche,944
+24,89,FGH890,Lamborghini,Countach
+25,145,IJK123,Ferrari,Testarossa
+26,23,LMN456,BMW,M3
+27,178,OPQ789,Mercedes,560SEC
+28,67,RST012,Lamborghini,Countach
+29,134,UVW345,Alfa Romeo,Spider
+30,92,XYZ678,Jaguar,XJS
+31,156,ABC901,Lamborghini,Countach
+32,45,DEF234,Aston Martin,V8 Vantage
+33,189,GHI567,Maserati,Biturbo
+34,123,JKL890,Lamborghini,Countach
+35,78,MNO123,Lotus,Esprit
+36,167,PQR456,Porsche,928
+37,34,STU789,Ferrari,288 GTO
+38,198,VWX012,Lamborghini,Countach
+39,89,YZA345,BMW,M5
+40,145,BCD678,Mercedes,190E
+41,97,EFG901,Lamborghini,Countach
+42,178,HIJ234,Audi,5000
+43,67,KLM567,Volkswagen,Scirocco
+44,134,NOP890,Toyota,Supra
+45,92,QRS123,Nissan,300ZX
+46,156,TUV456,Chevrolet,Monte Carlo
+47,45,WXY789,Buick,Grand National
+48,189,ZAB012,Pontiac,Trans Am
+49,123,CDE345,Ford,LTD
+50,78,FGH678,Chrysler,New Yorker
+51,167,IJK901,Dodge,Charger
+52,34,LMN234,Plymouth,Gran Fury
+53,198,OPQ567,Oldsmobile,Cutlass
+54,89,RST890,Cadillac,DeVille
+55,145,UVW123,Lincoln,Continental
+56,23,XYZ456,Mercury,Grand Marquis
+57,178,ABC789,Honda,Prelude
+58,67,DEF012,Mazda,626
+59,134,GHI345,Subaru,XT
+60,92,JKL678,Mitsubishi,Starion
+61,156,MNO901,Isuzu,Impulse
+62,45,PQR234,Saab,900
+63,189,STU567,Volvo,240
+64,123,VWX890,Peugeot,505
+65,78,YZA123,Renault,Fuego
+66,167,BCD456,Fiat,X1/9
+67,34,EFG789,Alfa Romeo,GTV6
+68,198,HIJ012,Lancia,Delta
+69,89,KLM345,BMW,325i
+70,145,NOP678,Mercedes,190D
+71,23,QRS901,Audi,4000
+72,178,TUV234,Volkswagen,Jetta
+73,67,WXY567,Toyota,Cressida
+74,134,ZAB890,Nissan,Maxima
+75,92,CDE123,Honda,Accord
+76,156,FGH456,Mazda,929
+77,45,IJK789,Subaru,GL
+78,189,LMN012,Mitsubishi,Galant
+79,123,OPQ345,Dodge,Diplomat
+80,78,RST678,Plymouth,Caravelle
+81,167,UVW901,Chrysler,Fifth Avenue
+82,34,XYZ234,Buick,Century
+83,198,ABC567,Oldsmobile,88
+84,89,DEF890,Pontiac,6000
+85,145,GHI123,Chevrolet,Celebrity
+86,23,JKL456,Ford,Crown Victoria
+87,178,MNO789,Mercury,Cougar
+88,67,PQR012,Lincoln,Mark VII
+89,134,STU345,Cadillac,Eldorado
+90,92,VWX678,AMC,Eagle
+91,156,YZA901,Jeep,Cherokee
+92,45,BCD234,Toyota,Land Cruiser
+93,189,EFG567,Nissan,Pathfinder
+94,123,HIJ890,Mitsubishi,Montero
+95,78,KLM123,Isuzu,Trooper
+96,167,NOP456,Ford,Bronco
+97,34,QRS789,Chevrolet,Blazer
+98,198,TUV012,GMC,Jimmy
+99,89,WXY345,Dodge,Ramcharger
+100,145,ZAB678,Plymouth,Trail Duster
+101,23,CDE901,International,Scout
+102,178,FGH234,Land Rover,Range Rover
+103,67,IJK567,Mercedes,G-Class
+104,134,LMN890,Volvo,760
+105,92,OPQ123,Saab,9000
+106,156,RST456,Lamborghini,Countach
+107,45,UVW789,Lamborghini,Countach
+108,189,XYZ012,Lamborghini,Countach
+109,123,ABC345,Lamborghini,Countach
+110,78,DEF678,Lamborghini,Countach
+111,167,GHI901,Lamborghini,Countach
+112,34,JKL234,Lamborghini,Countach
+113,198,MNO567,Lamborghini,Countach
+114,89,PQR890,Lamborghini,Countach
+115,145,STU123,Lamborghini,Countach
+116,23,VWX456,Chevrolet,Camaro
+117,178,YZA789,Pontiac,Firebird
+118,67,BCD012,Ford,Mustang
+119,134,EFG345,Chevrolet,Corvette
+120,92,HIJ678,Porsche,911
+121,156,KLM901,Ferrari,Testarossa
+122,45,NOP234,DeLorean,DMC-12
+123,189,QRS567,Chevrolet,Monte Carlo
+124,123,TUV890,Buick,Regal
+125,78,WXY123,Cadillac,DeVille
+126,167,ZAB456,Pontiac,Trans Am
+127,34,CDE789,Dodge,Charger
+128,198,FGH012,Plymouth,Gran Fury
+129,89,IJK345,Chrysler,LeBaron
+130,145,LMN678,Toyota,Celica
+131,23,OPQ901,Datsun,280ZX
+132,178,RST234,Honda,CRX
+133,67,UVW567,Mazda,RX-7
+134,134,XYZ890,Nissan,300ZX
+135,92,ABC123,BMW,635CSi
+136,156,DEF456,Mercedes,560SL
+137,45,GHI789,Porsche,944
+138,189,JKL012,Audi,Quattro
+139,123,MNO345,Volkswagen,Scirocco
+140,78,PQR678,Alfa Romeo,Spider
+141,167,STU901,Fiat,Spider
+142,34,VWX234,Jaguar,XJS
+143,198,YZA567,Maserati,Biturbo
+144,89,BCD890,Ferrari,308
+145,145,EFG123,Lotus,Esprit
+146,23,HIJ456,Chevrolet,El Camino
+147,178,KLM789,Ford,Thunderbird
+148,67,NOP012,Oldsmobile,Cutlass
+149,134,QRS345,Buick,Grand National
+150,92,TUV678,Pontiac,Fiero
+151,156,WXY901,Dodge,Daytona
+152,45,ZAB234,Plymouth,Laser
+153,189,CDE567,Chrysler,Conquest
+154,123,FGH890,Toyota,Supra
+155,78,IJK123,Datsun,200SX
+156,167,LMN456,Honda,Civic
+157,34,OPQ789,Mazda,RX-7
+158,198,RST012,Nissan,Pulsar
+159,89,UVW345,BMW,535i
+160,145,XYZ678,Mercedes,190E
+161,23,ABC901,Porsche,928
+162,178,DEF234,Audi,5000
+163,67,GHI567,Volkswagen,GTI
+164,134,JKL890,Alfa Romeo,Milano
+165,92,MNO123,Fiat,Strada
+166,156,PQR456,Jaguar,XJ6
+167,45,STU789,Maserati,Quattroporte
+168,189,VWX012,Ferrari,Mondial
+169,123,YZA345,Lotus,Turbo Esprit
+170,78,BCD678,Chevrolet,IROC-Z
+171,167,EFG901,Ford,LTD
+172,34,HIJ234,Oldsmobile,Delta 88
+173,198,KLM567,Buick,Riviera
+174,89,NOP890,Pontiac,Bonneville
+175,145,QRS123,Dodge,Aries
+176,23,TUV456,Plymouth,Reliant
+177,178,WXY789,Chrysler,New Yorker
+178,67,ZAB012,Toyota,Corolla
+179,134,CDE345,Datsun,510
+180,92,FGH678,Honda,Prelude
+181,156,IJK901,Mazda,626
+182,45,LMN234,Nissan,Sentra
+183,189,OPQ567,BMW,733i
+184,123,RST890,Mercedes,300E
+185,78,UVW123,Porsche,924
+186,167,XYZ456,Audi,Coupe GT
+187,34,ABC789,Volkswagen,Quantum
+188,198,DEF012,Alfa Romeo,GTV6
+189,89,GHI345,Fiat,Brava
+190,145,JKL678,Jaguar,Vanden Plas
+191,23,MNO901,Maserati,Merak
+192,178,PQR234,Ferrari,400i
+193,67,STU567,Lotus,Excel
+194,134,VWX890,Chevrolet,Citation
+195,92,YZA123,Ford,Granada
+196,156,BCD456,Oldsmobile,Toronado
+197,45,EFG789,Buick,Skyhawk
+198,189,HIJ012,Pontiac,Phoenix
+199,123,KLM345,Dodge,Omni
+200,78,NOP678,Plymouth,Horizon
+201,167,QRS901,Chrysler,Cordoba
+202,34,TUV234,Toyota,Tercel
+203,198,WXY567,Datsun,Maxima
+204,89,ZAB890,Honda,Integra
+205,145,CDE123,Mazda,GLC

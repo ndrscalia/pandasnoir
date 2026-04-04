@@ -1,0 +1,101 @@
+id,date,type,location,description
+1,20120909,theft,City Street,A guest was found dead in their hotel room. There were signs of a struggle and blood near the bed.
+2,19920415,theft,Downtown Bank,A briefcase was stolen during a robbery. A man in a suit was seen leaving the premises with it.
+3,20010702,murder,Corner Café,"A body was found behind the café. No witnesses reported anything, but there was a knife wound in the back."
+4,19980328,bribery,Metro Station,
+5,20091113,theft,Park Avenue Office,A briefcase with classified documents was stolen. A witness mentioned a person in a blazer running away from the scene.
+6,20050716,murder,Grand Hotel,"A guest was found dead in their room with signs of foul play. The door was locked from the inside, and there was no sign of forced entry."
+7,19960205,theft,City Library,"A briefcase containing confidential papers went missing. The thief was caught on security camera, wearing a jacket."
+8,20080422,bribery,Main Street Mall,
+9,20110630,theft,Old Town Square,A man was seen fleeing with a briefcase. He had a scar on his right hand and was wearing a coat.
+10,20031218,murder,Central Park,A woman’s body was discovered in the park with signs of strangulation. A witness saw a man wearing a baseball cap near the scene.
+11,20120909,theft,City Museum,A briefcase containing valuable artifacts was taken. A man in a trench coat was seen leaving the scene.
+12,20140512,theft,Airport Terminal,
+13,19950521,murder,Museum of Modern Art,A prominent artist was found dead in his studio with multiple stab wounds. No suspect has been identified yet.
+14,20060907,theft,Luxury Hotel,A briefcase was stolen from a guest. The thief was wearing a dark suit and had a scar on his right cheek.
+15,19980211,theft,Subway Station,A briefcase went missing from the platform. A man in a leather jacket was seen with it.
+16,20021225,bribery,Downtown Restaurant,
+17,20160114,murder,University Library,A student was found dead near the library’s entrance. The cause of death was a gunshot wound to the head.
+18,19910730,theft,Art Gallery,
+19,20050710,murder,Beachside Hotel,A guest was found dead in their hotel room. There were signs of a struggle and blood near the bed.
+20,19990416,theft,City Plaza,"A briefcase went missing after an event. No clear suspect was identified, but a man in a gray coat was seen near the area."
+21,20080312,theft,Luxury Mall,A briefcase with valuable goods was stolen. The thief was described as wearing a dark jacket and had a visible scar.
+22,20100122,bribery,Highway Rest Stop,
+23,20151203,murder,Coffee Shop,A barista was found dead behind the counter with a gunshot wound. The suspect was seen leaving in a red car.
+24,20180418,bribery,City Hall,A corrupt city official was caught accepting a bribe. A videotape showed the transaction in a private office.
+25,20120719,theft,Warehouse District,
+26,19980903,murder,Luxury Condo,A body was discovered in a high-rise apartment. The victim had multiple gunshot wounds.
+27,20060522,theft,Shopping Mall,A purse was stolen from a woman’s bag in the food court. A man in a red hoodie was seen near the area.
+28,19941030,bribery,Corporate Office,A CEO was seen accepting illegal payments from a contractor. The contract was later canceled under suspicious circumstances.
+29,20150914,theft,Train Station,
+30,20070426,bribery,Golf Club,A bribery scandal involving several high-ranking officials at the country club. A video surfaced showing the exchange of money.
+31,20010212,murder,Dark Alley,A man was found dead in a dark alley with a knife stuck in his chest. No suspects yet.
+32,20180125,theft,Bank Vault,"A bank vault was broken into overnight. Security cameras were tampered with, and the culprit remains unidentified."
+33,19961118,murder,Luxury Yacht,
+34,20030705,bribery,Subway Station,A bribe was offered to a transit officer in exchange for bypassing the fare. The officer reported the incident immediately.
+35,19921221,theft,Fashion Boutique,A necklace worth thousands was stolen during a fashion show. A woman was seen leaving with it in her purse.
+36,20081008,murder,City Park,"A body was discovered in the park. The victim was hit by a car, and police are investigating whether it was intentional."
+37,20150203,theft,Corporate Office,A laptop containing company secrets was stolen from a secured office. No signs of forced entry.
+38,19950627,theft,Luxury Mall,A designer handbag was stolen from a display. A suspect in a suit was seen on the surveillance footage.
+39,20030410,bribery,Construction Site,A contractor was bribed to overlook safety violations. The transaction was caught on camera.
+40,20091206,theft,Parking Garage,A car was stolen from a parking garage. Security footage shows a person in a hoodie breaking into the vehicle.
+41,20150722,murder,Street Corner,"A young man was found dead near a busy street. Police are investigating the cause of death, possibly drug-related."
+42,19980305,theft,Shopping Mall,A briefcase containing cash was stolen from a display. A suspect in a red jacket was seen near the scene.
+43,20060119,bribery,Airport Lounge,A flight attendant was caught accepting a bribe to let passengers bypass security checks.
+44,20171003,theft,Car Dealership,
+45,20080409,murder,Night Club,A man was found dead in the club’s bathroom. Police are investigating whether it was a drug deal gone wrong.
+46,20140822,bribery,Public Office,A city official was caught accepting bribes from contractors in exchange for government contracts.
+47,20031014,murder,Back Alley,"A woman was found dead with a broken neck. No witnesses were present, and no suspects have been identified."
+48,20151209,theft,Restaurant,A woman’s purse was stolen while she was dining. A man in a black jacket was seen near the table.
+49,19990217,bribery,Government Building,A politician was caught receiving bribes from a lobbyist. The deal was overheard by a security guard.
+50,20100115,theft,Jewelry Store,A diamond ring was stolen from a high-end jewelry store. The thief was wearing a black coat and gloves.
+51,20090222,bribery,Courtroom,
+52,20061214,murder,Luxury Hotel,"A businessman was found dead in his hotel room. Police suspect foul play, but no suspects have been named yet."
+53,19980718,theft,Art Gallery,A valuable painting was stolen during an exhibition. A woman in a red dress was seen leaving the gallery.
+54,20080304,bribery,Construction Site,
+55,19971005,murder,City Hospital,A nurse was found dead in a hospital storage room. The police are looking into hospital staff for possible involvement.
+56,20011117,bribery,Financial District,A stockbroker was caught bribing clients to inflate their investments.
+57,20070315,theft,Corporate Office,A company laptop with sensitive information was stolen. A man in a suit was seen leaving the office with it.
+58,20130321,murder,City Street,
+59,20141011,theft,Airport Terminal,A passenger’s suitcase was swapped with another at the terminal. The suspect was wearing a red shirt.
+60,20100518,bribery,Public Office,An official was caught accepting bribes to approve a construction project without proper inspection.
+61,19941122,murder,City Bar,A man was found dead after an altercation in a local bar. The suspect fled the scene.
+62,20050329,theft,Luxury Mall,A woman’s handbag was stolen from a high-end store. A man in a gray jacket was seen walking away with it.
+63,20170704,murder,Restaurant,"A chef was found dead in the kitchen. No obvious injuries, but foul play is suspected."
+64,20020301,bribery,Construction Site,A contractor was bribed to overlook safety violations on a new building project.
+65,20061103,theft,Public Library,A library card with personal information was stolen from the librarian’s desk. A suspect was seen leaving with it.
+66,20121118,theft,Casino,A man was seen taking chips from an unguarded table. The suspect was wearing a black hoodie.
+67,19990514,murder,City Park,A body was discovered near the park bench. The cause of death was a gunshot wound.
+68,20190906,bribery,University,A professor was caught accepting bribes from students in exchange for better grades.
+69,20071220,theft,Train Station,A man stole a suitcase from a passenger at the train station. The suspect was wearing a jacket and hat.
+70,19990410,murder,Street Corner,
+71,20080111,theft,Restaurant,A purse was stolen while the victim was eating dinner. The suspect was seen walking away briskly.
+72,20180228,bribery,Municipal Office,A city official was seen accepting cash from a local contractor to fast-track his projects.
+73,20030504,theft,Library,A rare book was stolen from the library. The suspect was seen entering and exiting the restricted area.
+74,20160622,murder,Downtown Alley,A woman was found dead in an alley with signs of blunt force trauma to her head.
+75,19930310,theft,Parking Lot,
+76,19851120,theft,Blue Note Lounge,A briefcase containing sensitive documents vanished. A witness reported a man in a trench coat with a scar on his left cheek fleeing the scene.
+77,20151019,murder,Office Building,A manager was found dead in his office. Police suspect a workplace dispute may have led to the murder.
+78,20110225,theft,Art Auction,A painting was stolen during an auction. The thief was seen fleeing the scene.
+79,19980507,bribery,Medical Center,
+80,20091229,theft,Airport Security,A bag containing valuable items was stolen during security checks.
+81,19941021,murder,Rooftop Bar,A man was found dead after an argument with another patron. No weapons were found at the scene.
+82,20081116,theft,Corporate Office,"A laptop with confidential information was stolen. No signs of forced entry, but a suspect in a suit was seen."
+83,20030613,bribery,Hospital,A doctor was caught accepting money to provide fake medical reports for insurance claims.
+84,20150607,murder,Woods,A body was discovered in the woods with a bullet wound to the chest. The police are still looking for suspects.
+85,20081005,theft,Shopping Mall,A wallet was stolen from a shopper. The thief was caught on camera wearing a baseball cap.
+86,20131011,bribery,City Council,A councilman was caught accepting bribes to approve zoning laws.
+87,20180503,theft,Luxury Store,A man was seen taking a bracelet without paying for it.
+88,19921214,murder,Train Station,A body was found near the tracks. Investigators believe it may have been an accident or foul play.
+89,20070911,bribery,Corporate Office,
+90,20140206,theft,Tech Conference,A laptop was stolen during the conference. A man in a black hoodie was seen leaving the area.
+91,20100817,theft,Bookstore,A rare edition book was stolen from a bookstore display.
+92,19970103,bribery,Police Station,A police officer was caught accepting bribes from local criminals to overlook their activities.
+93,20091129,murder,House,A body was found in a house with signs of strangulation.
+94,19960521,theft,Gallery,A painting was stolen during an exhibition.
+95,20131028,bribery,Post Office,A postal worker was caught accepting money to tamper with mail.
+96,20080303,murder,Lakeside,
+97,20030512,theft,Gas Station,A cashier was robbed at gunpoint. The thief took the cash from the register.
+98,20150717,bribery,School,A teacher was caught accepting bribes from parents to give their children better grades.
+99,20090611,theft,Construction Site,A truck full of equipment was stolen from a construction site.
+100,20180320,murder,Club,A man was killed during a fight inside a club. The suspect was seen leaving the scene.

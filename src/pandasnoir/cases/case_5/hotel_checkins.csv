@@ -1,0 +1,201 @@
+id,person_id,hotel_name,check_in_date,room_number
+1,45,Oceanview Resort,19871028,301
+2,156,Sunset Plaza Hotel,19871029,412
+3,89,Mountain Lodge,19871030,205
+4,23,Harbor View Inn,19871031,618
+5,178,City Center Hotel,19871028,509
+6,67,Bayside Resort,19871029,723
+7,134,Palm Beach Hotel,19871030,815
+8,92,Riverside Inn,19871031,402
+9,145,Grand Plaza Hotel,19871028,617
+10,34,Seaside Resort,19871029,504
+11,189,Forest Lodge,19871030,309
+12,56,Marina Bay Hotel,19871031,711
+13,167,Downtown Inn,19871028,203
+14,78,Lakeview Resort,19871029,608
+15,123,Highland Hotel,19871030,415
+16,45,Beach Club Resort,19871031,702
+17,198,Valley View Inn,19871028,506
+18,67,Royal Palace Hotel,19871029,819
+19,156,Garden Court Inn,19871030,304
+20,89,Metropolitan Hotel,19871031,613
+21,23,Island Paradise Resort,19871028,407
+22,178,Mountain View Lodge,19871029,512
+23,92,Coastal Inn,19871030,705
+24,134,Urban Oasis Hotel,19871031,218
+25,145,Harborside Resort,19871028,603
+26,34,Skyline Hotel,19871029,409
+27,189,Beachfront Lodge,19871030,714
+28,56,River Rapids Inn,19871031,302
+29,167,Summit Hotel,19871028,615
+30,78,Bay Bridge Resort,19871029,508
+31,123,Pine Valley Inn,19871030,401
+32,45,Ocean Breeze Hotel,19871031,707
+33,198,Lakeside Lodge,19871028,604
+34,67,City Lights Hotel,19871029,513
+35,156,Coastal View Resort,19871030,308
+36,89,Mountain Peak Inn,19871031,716
+37,23,Harbor Heights Hotel,19871028,405
+38,178,Seaside Lodge,19871029,609
+39,92,Downtown Plaza Hotel,19871030,502
+40,134,Forest Edge Inn,19871031,217
+41,145,Marina View Resort,19871028,612
+42,34,Valley Inn,19871029,403
+43,189,Beach Point Hotel,19871030,718
+44,56,Highland Lodge,19871031,305
+45,167,Riverside Plaza,19871028,614
+46,78,Ocean View Inn,19871029,507
+47,123,City Park Hotel,19871030,404
+48,45,Mountain Lodge Resort,19871031,709
+49,198,Bayside Inn,19871028,606
+50,67,Lake House Hotel,19871029,515
+51,156,Coastal Resort,19871030,306
+52,89,Urban Hotel,19871031,713
+53,23,Harbor Lodge,19871028,408
+54,178,Beach Resort,19871029,611
+55,92,Valley View Hotel,19871030,503
+56,134,Forest Inn,19871031,219
+57,145,Marina Lodge,19871028,616
+58,34,Summit Resort,19871029,406
+59,189,River View Hotel,19871030,717
+60,56,Mountain Inn,19871031,303
+61,167,Ocean Plaza,19871028,619
+62,78,City View Lodge,19871029,510
+63,123,Lakefront Hotel,19871030,410
+64,45,Coastal Lodge,19871031,708
+65,198,Harbor View Resort,19871028,607
+66,67,Beach Point Inn,19871029,514
+67,156,Valley Lodge,19871030,307
+68,89,Forest View Hotel,19871031,715
+69,23,Marina Resort,19871028,411
+70,178,Mountain Plaza,19871029,610
+71,92,Ocean Lodge,19871030,505
+72,134,City Inn,19871031,216
+73,145,Lake View Hotel,19871028,620
+74,34,Coastal Resort Inn,19871029,413
+75,189,River Lodge,19871030,719
+76,56,Harbor Inn,19871031,310
+77,167,Beach View Hotel,19871028,621
+78,78,The Grand Regency,19871030,707
+79,123,The Grand Regency,19871030,707
+80,45,Marina View Inn,19871031,710
+81,198,Valley Resort,19871028,605
+82,67,Ocean Point Lodge,19871029,516
+83,156,City Lodge,19871030,311
+84,89,Lake Inn,19871031,712
+85,23,Coastal View Inn,19871028,416
+86,178,River Plaza Hotel,19871029,622
+87,92,Mountain View Inn,19871030,501
+88,134,The Grand Regency,19871031,707
+89,145,Beach House Hotel,19871028,623
+90,34,Forest Inn Resort,19871029,417
+91,189,Marina Plaza,19871030,720
+92,56,Valley Inn Lodge,19871031,312
+93,167,Ocean View Plaza,19871028,624
+94,78,City Resort,19871029,517
+95,123,The Grand Regency,19871031,705
+96,45,Coastal Inn Resort,19871031,706
+97,198,River View Plaza,19871028,625
+98,67,The Grand Regency,19871031,707
+99,156,Harbor View Lodge,19871030,313
+100,89,Beach Plaza Hotel,19871031,721
+101,134,Mountain View Lodge,19871030,412
+102,167,Seaside Resort,19871029,315
+103,92,The Grand Regency,19871031,705
+104,156,The Grand Regency,19871031,707
+105,45,Sunset Plaza,19871029,419
+106,178,Bayfront Hotel,19871031,722
+107,123,Hilltop Lodge,19871030,316
+108,89,Harbor Lights Inn,19871029,520
+109,34,The Grand Regency,19871030,707
+110,198,Lakeview Hotel,19871030,420
+111,67,Ocean Breeze Inn,19871029,317
+112,156,City Center Lodge,19871031,723
+113,92,Mountain Peak Hotel,19871030,521
+114,145,Riverside Inn,19871029,421
+115,178,Beachcomber Resort,19871031,318
+116,123,Forest Glen Lodge,19871030,626
+117,89,Marina View Hotel,19871029,522
+118,34,Summit Lodge,19871031,422
+119,11,The Grand Regency,19871030,707
+120,78,Urban Retreat,19871029,724
+121,156,Valley Vista Hotel,19871031,523
+122,92,Harborside Inn,19871030,423
+123,198,The Grand Regency,19871030,706
+124,67,Lake House Lodge,19871031,627
+125,134,City Lights Hotel,19871030,524
+126,145,Mountain Air Inn,19871029,424
+127,178,Ocean View Resort,19871031,321
+128,123,River Walk Hotel,19871030,725
+129,89,Forest Edge Lodge,19871029,525
+130,34,Seaside Inn,19871031,425
+131,167,Downtown Plaza,19871030,322
+132,78,Valley Stream Hotel,19871029,628
+133,156,Harbor View Inn,19871031,526
+134,92,Lakeside Lodge,19871030,426
+135,198,Beach Point Resort,19871029,323
+136,67,Mountain Lodge,19871031,726
+137,134,City Park Hotel,19871030,527
+138,145,Riverside Plaza,19871029,427
+139,178,Ocean Crest Inn,19871031,324
+140,123,Forest Park Lodge,19871030,629
+141,89,Marina Bay Hotel,19871029,528
+142,34,Summit View Inn,19871031,428
+143,167,Coastal Resort,19871030,325
+144,78,Urban Hotel,19871029,727
+145,156,Valley Forge Lodge,19871031,529
+146,92,Harbor Light Inn,19871030,429
+147,198,The Grand Regency,19871030,707
+148,67,Lake View Lodge,19871031,630
+149,134,City Square Hotel,19871030,530
+150,145,Mountain Vista Inn,19871029,430
+151,178,Ocean Park Resort,19871031,327
+152,123,River Edge Hotel,19871030,728
+153,89,Forest Glen Inn,19871029,531
+154,34,Seaside Lodge,19871031,431
+155,167,Downtown Inn,19871030,328
+156,78,Valley View Plaza,19871029,631
+157,156,Harbor Point Hotel,19871031,532
+158,92,Lakefront Lodge,19871030,432
+159,198,Beach Club Resort,19871029,329
+160,67,Mountain View Inn,19871031,729
+161,134,City Center Plaza,19871030,533
+162,145,Riverside Lodge,19871029,433
+163,178,Ocean Vista Hotel,19871031,330
+164,123,Forest View Inn,19871030,632
+165,89,Marina Point Lodge,19871029,534
+166,34,Summit Park Hotel,19871031,434
+167,167,Coastal Inn Resort,19871030,331
+168,78,Urban Plaza,19871029,730
+169,156,Valley Stream Inn,19871031,535
+170,92,Harbor View Lodge,19871030,435
+171,198,The Grand Regency,19871030,707
+172,67,Lake Park Resort,19871031,633
+173,134,City View Inn,19871030,536
+174,145,Mountain Edge Lodge,19871029,436
+175,178,The Grand Regency,19871030,707
+176,123,River Park Inn,19871030,731
+177,89,Forest Point Lodge,19871029,537
+178,34,Seaside Plaza,19871031,437
+179,167,Downtown Hotel,19871030,334
+180,78,Valley Light Inn,19871029,634
+181,156,Harbor Park Lodge,19871031,538
+182,92,Lake View Hotel,19871030,438
+183,198,The Grand Regency,19871030,707
+184,67,Mountain Point Inn,19871031,732
+185,134,City Light Plaza,19871030,539
+186,145,Riverside Hotel,19871029,439
+187,178,Ocean Park Lodge,19871031,336
+188,123,The Grand Regency,19871030,707
+189,89,Marina Vista Hotel,19871029,540
+190,34,Summit Point Lodge,19871031,440
+191,167,Coastal Plaza,19871030,337
+192,78,Urban View Inn,19871029,733
+193,156,The Grand Regency,19871030,707
+194,92,Harbor Light Lodge,19871030,441
+195,198,Beach Park Resort,19871029,338
+196,67,Lake Vista Inn,19871031,636
+197,134,City Point Hotel,19871030,542
+198,145,Mountain Light Plaza,19871029,442
+199,178,Ocean View Lodge,19871031,339
+200,123,River Light Hotel,19871030,734
