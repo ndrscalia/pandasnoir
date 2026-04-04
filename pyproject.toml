@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pandasnoir"
-version = "0.1.0"
-description = "A noir detective mystery game for learning pandas"
+dynamic = ["version"]
+description = "A sqlnoir inspired game for pandas"
 requires-python = ">=3.9"
 readme = "README.md"
 license = {text = "MIT"}
@@ -32,6 +32,9 @@ dev = [
 
 [project.scripts]
 pandasnoir = "pandasnoir.app:main"
+
+[tool.setuptools.dynamic]
+version = {attr = "pandasnoir.__version__"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
