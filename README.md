@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ndrscalia/pandasnoir/demo.gif" alt="Cover photo" />
+    <img src="https://raw.githubusercontent.com/ndrscalia/pandasnoir/main/demo.gif" alt="Cover photo" />
     <br/>
     <img src="https://img.shields.io/github/stars/ndrscalia/pandasnoir?style=social" />
   </p>
