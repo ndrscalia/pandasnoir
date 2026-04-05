@@ -5,9 +5,9 @@
   </p>
 
 `pandasnoir` is a TUI based game built with [Textual](https://github.com/textualize/textual) and inspired by [sqlnoir](sqlnoir.com). The cases and the data are the same, but you can now test your pandas' skills on them.<br/>
-The pixel "art" (I'm no professional, I know) was drawn by me with [Aseprite](https://www.aseprite.org). For it to render, your monitor should be bigger than a laptop's one.
+The pixel "art" (I'm no professional, I know) was drawn by me with [Aseprite](https://www.aseprite.org). For it to render, your monitor should be bigger than a laptop's one or your terminal should be more zoomed out than mine.
 
-If you find any value in this project please leave a star and consider buying me a coffee.
+If you find any value in this project please leave a star and consider to offer me a coffee (Paypal or Github sponsor).
 
 > [!IMPORTANT]
 > For the Textual experience to fully express itself you should run the program on a modern terminal emulator (tested on Kitty only, but any other popular option should work fine).
