@@ -171,7 +171,7 @@ class MenuScreen(Screen):
         if label == "About":
             self.app.push_screen(AboutScreen())
         if label == "Leave a star":
-            webbrowser.open("https://github.com/ndrscalia", new=1)
+            webbrowser.open("https://github.com/ndrscalia/pandasnoir", new=1)
 
     def on_mount(self):
         self.watch_selected(self.selected)
