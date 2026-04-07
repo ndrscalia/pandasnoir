@@ -5,14 +5,33 @@ import webbrowser
 
 from textual.app import App, ComposeResult
 from textual.screen import ModalScreen, Screen
-from textual.widgets import RichLog, Static, Footer, Label, Markdown, TabPane, TabbedContent, TextArea, Input
+from textual.widgets import (
+    RichLog,
+    Static,
+    Footer,
+    Label,
+    Markdown,
+    TabPane,
+    TabbedContent,
+    TextArea,
+    Input,
+)
 from textual.binding import Binding
 from textual.containers import Horizontal, Vertical, ItemGrid, VerticalScroll, Center
 from textual.reactive import reactive
 
 from rich.text import Text
 
-from .utils import draw_mascot, render, rich_df, update_progress, check_progress, Schema, populate_saves, SAVES_DIR
+from .utils import (
+    draw_mascot,
+    render,
+    rich_df,
+    update_progress,
+    check_progress,
+    Schema,
+    populate_saves,
+    SAVES_DIR,
+)
 from .mascot import Mascot
 from ._cases_data import CaseInfo, CASES
 
@@ -22,19 +41,18 @@ CASES_MD = """\
 # Cases Files
 """
 
+
 class PandasNoirApp(App):
-
-
     BINDINGS = [
-            Binding("escape", "go_back", "Back"),
-            Binding("q", "quit", "Quit"),
-            Binding(
-                "ctrl+a",
-                "app.maximize",
-                "Maximize",
-                tooltip="Maximize the focused widget (if possible)",
-            ),
-        ]
+        Binding("escape", "go_back", "Back"),
+        Binding("q", "quit", "Quit"),
+        Binding(
+            "ctrl+a",
+            "app.maximize",
+            "Maximize",
+            tooltip="Maximize the focused widget (if possible)",
+        ),
+    ]
 
     def action_maximize(self) -> None:
         if getattr(self.screen, "ALLOW_MAXIMIZE", True) is False:
@@ -65,7 +83,7 @@ class PandasNoirApp(App):
             if isinstance(self.screen, GameScreen):
                 self.screen.save_data()
             self.screen.dismiss()
-            
+
     def on_mount(self):
         populate_saves()
         self.push_screen(MenuScreen())
@@ -77,8 +95,8 @@ class PandasNoirApp(App):
         else:
             await super().action_quit()
 
-class MenuScreen(Screen):
 
+class MenuScreen(Screen):
     CSS = """
     Screen {
         align: center middle;
@@ -125,16 +143,12 @@ class MenuScreen(Screen):
     selected = reactive(0)
 
     BINDINGS = [
-            Binding("up,k", "move_up", "Up"),
-            Binding("down,j", "move_down", "Down"),
-            Binding("enter", "select", "Select"),
-            ]
+        Binding("up,k", "move_up", "Up"),
+        Binding("down,j", "move_down", "Down"),
+        Binding("enter", "select", "Select"),
+    ]
 
-    MENU_ITEMS = [
-            "View Cases",
-            "About",
-            "Leave a star"
-            ]
+    MENU_ITEMS = ["View Cases", "About", "Leave a star"]
 
     def compose(self) -> ComposeResult:
         with Vertical(id="menu"):
@@ -142,10 +156,20 @@ class MenuScreen(Screen):
             for label in self.MENU_ITEMS:
                 yield Static(label, classes="menu-item")
             yield Static("Inspired by sqlnoir.com", id="credits")
-            yield Static("Copyright (c) 2026 Andrea Scalia", id ="copyright")
+            yield Static("Copyright (c) 2026 Andrea Scalia", id="copyright")
         if draw_mascot():
-            yield Mascot(Path(__file__).parent/"assets/body.png", sizes=(47,13), title="Body", id="mascot-left")
-            yield Mascot(Path(__file__).parent/"assets/detective_2.png", sizes=(20,32), title="Detective", id="mascot-right")
+            yield Mascot(
+                Path(__file__).parent / "assets/body.png",
+                sizes=(47, 13),
+                title="Body",
+                id="mascot-left",
+            )
+            yield Mascot(
+                Path(__file__).parent / "assets/detective_2.png",
+                sizes=(20, 32),
+                title="Detective",
+                id="mascot-right",
+            )
         yield Footer()
 
     def watch_selected(self, new_value: int):
@@ -158,11 +182,11 @@ class MenuScreen(Screen):
 
     def action_move_down(self):
         items = list(self.query(".menu-item").results(Static))
-        self.selected = (self.selected +1) % len(items)
+        self.selected = (self.selected + 1) % len(items)
 
     def action_move_up(self):
         items = list(self.query(".menu-item").results(Static))
-        self.selected = (self.selected -1) % len(items)
+        self.selected = (self.selected - 1) % len(items)
 
     def action_select(self):
         label = self.MENU_ITEMS[self.selected]
@@ -179,26 +203,26 @@ class MenuScreen(Screen):
         for mascot in mascots:
             if mascot.id == "mascot-right":
                 mascot.styles.offset = (
-                        self.size.width - 50,
-                        self.size.height - 25,
-                        )
+                    self.size.width - 50,
+                    self.size.height - 25,
+                )
             elif mascot.id == "mascot-left":
                 mascot.styles.offset = (
-                        10,
-                        self.size.height - 17,
-                        )
+                    10,
+                    self.size.height - 17,
+                )
+
 
 class AboutScreen(Screen):
-
     def compose(self):
 
-        with open(Path(__file__).parent/"ABOUT.md", "r") as f:
+        with open(Path(__file__).parent / "ABOUT.md", "r") as f:
             text = f.read()
             yield Markdown(text)
         yield Footer()
 
-class Case(Vertical, can_focus=True, can_focus_children=False):
 
+class Case(Vertical, can_focus=True, can_focus_children=False):
     ALLOW_MAXIMIZE = True
     DEFAULT_CSS = """
     Case {
@@ -234,7 +258,6 @@ class Case(Vertical, can_focus=True, can_focus_children=False):
 
 
 class CasesScreen(Screen):
-
     AUTO_FOCUS = None
     CSS = """
     Screen {
@@ -265,9 +288,9 @@ class CasesScreen(Screen):
     """
 
     BINDINGS = [
-            Binding("enter", "select", "Select"),
-            ]
-    
+        Binding("enter", "select", "Select"),
+    ]
+
     def compose(self) -> ComposeResult:
         with VerticalScroll() as container:
             container.can_focus = False
@@ -278,13 +301,16 @@ class CasesScreen(Screen):
                     yield Case(case)
         yield Footer()
 
-
     def action_select(self):
         if isinstance(self.screen.focused, Case):
-            self.app.push_screen(GameScreen(
-                                        case_info=self.screen.focused.case_info,
-                                        saves_path=Path(f"{SAVES_DIR}/case_{self.screen.focused.case_info.case_id}")
-                                 ))
+            self.app.push_screen(
+                GameScreen(
+                    case_info=self.screen.focused.case_info,
+                    saves_path=Path(
+                        f"{SAVES_DIR}/case_{self.screen.focused.case_info.case_id}"
+                    ),
+                )
+            )
 
     def on_mount(self):
         check_progress()
@@ -295,10 +321,12 @@ class CasesScreen(Screen):
         for case_widget in self.query(Case):
             title_label = case_widget.query_one("#title", Label)
             if case_widget.case_info.solved:
-                title_label.update(f"{case_widget.case_info.title} [green]\u2714[/green]")
+                title_label.update(
+                    f"{case_widget.case_info.title} [green]\u2714[/green]"
+                )
+
 
 class GameScreen(Screen):
-
     ALLOW_MAXIMIZE = False
     DEFAULT_CSS = """
     TextArea { height: 1fr; border: round $secondary; border-title-align: center; }
@@ -345,13 +373,13 @@ class GameScreen(Screen):
     """
 
     BINDINGS = [
-      #Binding("escape", "go_back", "Back", priority=True),
-      Binding("ctrl+r", "run_code", "Run", priority=True),
-      #Binding("ctrl+o", "show_tab('case')", "Case Overview", priority=True),
-      #Binding("ctrl+g", "show_tab('workspace')", "Workspace", priority=True),
-      #Binding("ctrl+n", "show_tab('notes')", "Notes", priority=True),
-      #Binding("ctrl+s", "show_tab('schema')", "Schema", priority=True),
-      ]
+        # Binding("escape", "go_back", "Back", priority=True),
+        Binding("ctrl+r", "run_code", "Run", priority=True),
+        # Binding("ctrl+o", "show_tab('case')", "Case Overview", priority=True),
+        # Binding("ctrl+g", "show_tab('workspace')", "Workspace", priority=True),
+        # Binding("ctrl+n", "show_tab('notes')", "Notes", priority=True),
+        # Binding("ctrl+s", "show_tab('schema')", "Schema", priority=True),
+    ]
 
     def __init__(self, case_info: CaseInfo, saves_path: Path) -> None:
         self.case_info = case_info
@@ -366,33 +394,33 @@ class GameScreen(Screen):
     def compose(self) -> ComposeResult:
 
         with TabbedContent(initial="case"):
-
             with TabPane("Case Overview", id="case"):
-                files_path = Path(__file__).parent/"cases_docs"
+                files_path = Path(__file__).parent / "cases_docs"
 
                 with open(f"{files_path}/case_{self.case_info.case_id}.md") as f:
                     content = f.read()
 
-                    bullet_points = "\n".join(f"- {obj}" for obj in self.case_info.objectives)
+                    bullet_points = "\n".join(
+                        f"- {obj}" for obj in self.case_info.objectives
+                    )
 
                     result = content.format(
-                            title=self.case_info.title,
-                            instructions=self.case_info.instructions,
-                            objectives=bullet_points
-                            )
+                        title=self.case_info.title,
+                        instructions=self.case_info.instructions,
+                        objectives=bullet_points,
+                    )
                 if result:
                     yield Markdown(result)
 
             with TabPane("Workspace", id="workspace"):
-
                 source = TextArea(
-                        language="python",
-                        theme="css",
-                        show_line_numbers=True,
-                        id="source",
-                        tab_behavior="focus",
-                        classes="workspace-editor"
-                        )
+                    language="python",
+                    theme="css",
+                    show_line_numbers=True,
+                    id="source",
+                    tab_behavior="focus",
+                    classes="workspace-editor",
+                )
                 source.border_title = "Code"
                 source.border_subtitle = "ctrl+r to run"
                 log = RichLog(id="output")
@@ -401,15 +429,23 @@ class GameScreen(Screen):
                 yield log
 
             with TabPane("Notes", id="notes"):
-                yield TextArea(placeholder="Write your notes here...", classes="notes-editor")
+                yield TextArea(
+                    placeholder="Write your notes here...", classes="notes-editor"
+                )
 
             with TabPane("Schema", id="schema"):
                 with VerticalScroll() as container:
                     container.can_focus = False
-                    with ItemGrid(min_column_width=40, stretch_height=True, regular=True):
+                    with ItemGrid(
+                        min_column_width=40, stretch_height=True, regular=True
+                    ):
                         text_color = self.app.current_theme.foreground
                         border_color = self.app.current_theme.primary
-                        case_schema = Schema(self.case_info.case_id, text_style=str(text_color), border_style=str(border_color))
+                        case_schema = Schema(
+                            self.case_info.case_id,
+                            text_style=str(text_color),
+                            border_style=str(border_color),
+                        )
 
                         for table in case_schema.draw_tables():
                             static = Static(table)
@@ -418,10 +454,12 @@ class GameScreen(Screen):
 
             with TabPane("Submit Answer", id="submission-pane"):
                 yield Vertical(
-                        Static("Who committed the crime?"),
-                        Input(placeholder="Type your answer and press enter...", id="submit"),
-                        id="submission-box"
-                        )
+                    Static("Who committed the crime?"),
+                    Input(
+                        placeholder="Type your answer and press enter...", id="submit"
+                    ),
+                    id="submission-box",
+                )
         yield Footer()
 
     def on_success(self, _):
@@ -442,55 +480,58 @@ class GameScreen(Screen):
     def on_mount(self):
         self.namespace = {}
         self.notify(
-                "Use [b]tab[/b] to switch focus, [b]arrow keys[/b] to cycle through tabs while focused on tabs' labels, and [b]enter[/b] to select the highlighted tab.",
-                timeout=10.0
-                )
-        
+            "Use [b]tab[/b] to switch focus, [b]arrow keys[/b] to cycle through tabs while focused on tabs' labels, and [b]enter[/b] to select the highlighted tab.",
+            timeout=10.0,
+        )
+
         for save in self.saves_path.iterdir():
             if save.name.startswith("workspace"):
                 workspace_saved_content = save.read_text()
-                self.query_one(".workspace-editor", TextArea).text = workspace_saved_content
+                self.query_one(
+                    ".workspace-editor", TextArea
+                ).text = workspace_saved_content
             if save.name.startswith("notes"):
                 notes_saved_content = save.read_text()
                 self.query_one(".notes-editor", TextArea).text = notes_saved_content
 
     def action_run_code(self):
-      source = self.query_one(".workspace-editor", TextArea).text
-      log = self.query_one(RichLog)
-      log.clear()
+        source = self.query_one(".workspace-editor", TextArea).text
+        log = self.query_one(RichLog)
+        log.clear()
 
-      import io
-      import sys
+        import io
+        import sys
 
-      capture = io.StringIO()
-      old_stdout, old_stderr = sys.stdout, sys.stderr
-      sys.stdout = sys.stderr = capture
-      try:
-          lines = source.strip().splitlines()
-          if len(lines) > 1:
-              exec("\n".join(lines[:-1]), self.namespace)
-          last = lines[-1] if lines else ""
-          try:
-              result = eval(last, self.namespace)
-              if result is not None:
-                  if isinstance(result, pd.DataFrame):
-                      log.write(rich_df(result))
-                  else:   
-                      print(repr(result))
-          except SyntaxError:
-              exec(last, self.namespace)
-      except Exception:
-          import traceback
-          traceback.print_exc()
-      finally:
-          sys.stdout, sys.stderr = old_stdout, old_stderr
+        capture = io.StringIO()
+        old_stdout, old_stderr = sys.stdout, sys.stderr
+        sys.stdout = sys.stderr = capture
+        try:
+            lines = source.strip().splitlines()
+            if len(lines) > 1:
+                exec("\n".join(lines[:-1]), self.namespace)
+            last = lines[-1] if lines else ""
+            try:
+                result = eval(last, self.namespace)
+                if result is not None:
+                    if isinstance(result, pd.DataFrame):
+                        log.write(rich_df(result))
+                    else:
+                        print(repr(result))
+            except SyntaxError:
+                exec(last, self.namespace)
+        except Exception:
+            import traceback
 
-      output = capture.getvalue()
-      if output:
-          log.write(output)
+            traceback.print_exc()
+        finally:
+            sys.stdout, sys.stderr = old_stdout, old_stderr
+
+        output = capture.getvalue()
+        if output:
+            log.write(output)
+
 
 class SuccessModal(ModalScreen):
-
     DEFAULT_CSS = """
 
     SuccessModal {
@@ -515,22 +556,24 @@ class SuccessModal(ModalScreen):
 
     """
 
-    BINDINGS = [
-            Binding("enter", "back_to_cases")
-            ]
+    BINDINGS = [Binding("enter", "back_to_cases")]
 
     def compose(self) -> ComposeResult:
         yield Vertical(
-            Static("[green][bold]Correct![/bold][/green]\nYou solved the case!\nPress [bold]ENTER[/bold] to go back to cases."),
-            id="success_popup"
-            )
+            Static(
+                "[green][bold]Correct![/bold][/green]\nYou solved the case!\nPress [bold]ENTER[/bold] to go back to cases."
+            ),
+            id="success_popup",
+        )
 
     def action_back_to_cases(self):
         self.dismiss(True)
 
+
 def main():
     app = PandasNoirApp()
     app.run()
+
 
 if __name__ == "__main__":
     main()

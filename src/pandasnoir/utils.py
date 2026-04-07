@@ -10,6 +10,7 @@ USER_DIR = Path.home() / ".pandasnoir"
 SAVES_DIR = USER_DIR / "saves"
 PROGRESS = USER_DIR / "saves" / "progress.json"
 
+
 def draw_mascot():
 
     cols, rows = os.get_terminal_size()
@@ -20,6 +21,7 @@ def draw_mascot():
         return False
     else:
         return True
+
 
 def populate_saves():
     SAVES_DIR.mkdir(parents=True, exist_ok=True)
@@ -39,18 +41,18 @@ def populate_saves():
                 if file_type == "workspace":
                     csv_dir = Path(__file__).parent / "cases" / f"case_{case.case_id}"
                     lines = [
-                            f"{name.split('.')[0]} = pd.read_csv(r'{csv_dir / name}')"
-                            for name in case.datasets
-                            ]
+                        f"{name.split('.')[0]} = pd.read_csv(r'{csv_dir / name}')"
+                        for name in case.datasets
+                    ]
                     content = "import pandas as pd\n\n" + "\n".join(lines) + "\n\n"
 
                     path.write_text(content)
 
                 if file_type == "notes":
                     path.touch()
-            
-class Schema():
 
+
+class Schema:
     def __init__(self, case_id: int, text_style: str, border_style: str):
         self.case_id = case_id
         self.text_style = text_style
@@ -58,9 +60,8 @@ class Schema():
         self.datasets = {}
 
         DATA_PATH = Path(__file__).parent / "cases" / f"case_{self.case_id}"
-        
-        for dataset in DATA_PATH.iterdir():
 
+        for dataset in DATA_PATH.iterdir():
             if dataset.name.endswith(".csv"):
                 self.datasets[dataset.name] = pd.read_csv(f"{DATA_PATH}/{dataset.name}")
 
@@ -72,7 +73,9 @@ class Schema():
             df_name = k.split(".")[0]
             df_cols = v.columns
 
-            table = Table(title_style="bold", box=box.ROUNDED, border_style=self.border_style)
+            table = Table(
+                title_style="bold", box=box.ROUNDED, border_style=self.border_style
+            )
             table.dataset_name = df_name
             table.add_column("column", style=self.text_style, justify="left")
             table.add_column("type", style=self.text_style, justify="center")
@@ -85,6 +88,7 @@ class Schema():
 
         return tables
 
+
 def check_key(col_name: str):
     """Check if column is PK, FK or no key when drawing datasets' schemas."""
 
@@ -95,6 +99,7 @@ def check_key(col_name: str):
     else:
         return None
 
+
 # check progress to update CasesScreen
 def check_progress():
     with open(PROGRESS, "r") as file:
@@ -103,6 +108,7 @@ def check_progress():
         for case in CASES:
             if case.case_id in content["solved"]:
                 case.solved = True
+
 
 # update progress if case gets solved
 def update_progress(id: int):
@@ -117,6 +123,7 @@ def update_progress(id: int):
 
         with open(PROGRESS, "w") as file:
             json.dump(data, file)
+
 
 # Unicode blocks renderer
 BRIGHT = "\033[38;5;255m"
@@ -146,7 +153,7 @@ def get_colors(text):
     result = []
     pandas_count = 0
     for ch in text:
-        if pandas_count < 6 and ch != '.':
+        if pandas_count < 6 and ch != ".":
             result.append((BRIGHT, MID))
             pandas_count += 1
         elif ch == ".":
@@ -186,14 +193,15 @@ def render(text):
 
         lines.append(line + R)
 
-    return '\n'.join(lines)
+    return "\n".join(lines)
+
 
 # rich rendering for dataframe
 def rich_df(df):
-      table = Table(show_lines=True)
-      for col in df.columns:
-          table.add_column(str(col), style="cyan")
-      for i, row in df.iterrows():
-          style = "on grey15" if i % 2 == 0 else ""
-          table.add_row(*[str(v) for v in row], style=style)
-      return table
+    table = Table(show_lines=True)
+    for col in df.columns:
+        table.add_column(str(col), style="cyan")
+    for i, row in df.iterrows():
+        style = "on grey15" if i % 2 == 0 else ""
+        table.add_row(*[str(v) for v in row], style=style)
+    return table
