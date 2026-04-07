@@ -459,7 +459,8 @@ class GameScreen(Screen):
       log = self.query_one(RichLog)
       log.clear()
 
-      import io, sys
+      import io
+      import sys
 
       capture = io.StringIO()
       old_stdout, old_stderr = sys.stdout, sys.stderr

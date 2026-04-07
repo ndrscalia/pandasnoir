@@ -119,8 +119,6 @@ def update_progress(id: int):
             json.dump(data, file)
 
 # Unicode blocks renderer
-from rich.table import Table
-
 BRIGHT = "\033[38;5;255m"
 MID = "\033[38;5;250m"
 GRAY = "\033[38;5;245m"
